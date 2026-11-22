@@ -1,0 +1,182 @@
+{
+ "title": "विज्ञान, स्वास्थ्य र वातावरण: लोकसेवा प्रश्न उत्तर सेट १",
+ "slug": "science-health-environment-questions-set-1",
+ "exam": "loksewa",
+ "subject": "gk",
+ "language": "ne",
+ "description": "खरिदारको विज्ञान, स्वास्थ्य र वातावरण एकाइमा सोधिने भिटामिन, एकाइ, निकुञ्ज, जलवायु र दिवसका १२ प्रश्न, व्याख्यासहित।",
+ "practice_online": "https://dipaacademy.com/practice/loksewa/gk/science-health-environment-questions-set-1",
+ "publisher": "Dipa Academy (दिपा एकेडेमी)",
+ "publisher_url": "https://dipaacademy.com/",
+ "license": "CC BY 4.0",
+ "questions": [
+  {
+   "id": "science-health-environment-questions-set-1-1",
+   "question": "भिटामिन D को कमीले कुन रोग लाग्छ?",
+   "options": [
+    "रतन्धो",
+    "रिकेट्स",
+    "स्कर्भी",
+    "बेरीबेरी"
+   ],
+   "answer_index": 1,
+   "answer": "रिकेट्स",
+   "explanation": "भिटामिन D को कमीले बालबालिकामा रिकेट्स हुन्छ; रतन्धो A, स्कर्भी C र बेरीबेरी B1 को कमीले हुन्छ।",
+   "unit": "स्वास्थ्य"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-2",
+   "question": "विद्युत धाराको एकाइ के हो?",
+   "options": [
+    "भोल्ट",
+    "वाट",
+    "एम्पियर",
+    "ओम"
+   ],
+   "answer_index": 2,
+   "answer": "एम्पियर",
+   "explanation": "धाराको एकाइ एम्पियर हो; भोल्ट विभवान्तर, वाट शक्ति र ओम प्रतिरोधको एकाइ हो।",
+   "unit": "भौतिक विज्ञान"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-3",
+   "question": "नेपालको पहिलो राष्ट्रिय निकुञ्ज कुन हो?",
+   "options": [
+    "सगरमाथा",
+    "चितवन",
+    "बर्दिया",
+    "लाङटाङ"
+   ],
+   "answer_index": 1,
+   "answer": "चितवन",
+   "explanation": "चितवन राष्ट्रिय निकुञ्ज वि.सं. २०३० (सन् १९७३) मा स्थापना भएको नेपालको पहिलो निकुञ्ज हो र यो विश्व सम्पदा सूचीमा छ।",
+   "unit": "वातावरण"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-4",
+   "question": "विश्व वातावरण दिवस कहिले मनाइन्छ?",
+   "options": [
+    "मार्च २२",
+    "अप्रिल २२",
+    "जुन ५",
+    "सेप्टेम्बर १६"
+   ],
+   "answer_index": 2,
+   "answer": "जुन ५",
+   "explanation": "जुन ५ मा विश्व वातावरण दिवस मनाइन्छ; मार्च २२ विश्व जल दिवस, अप्रिल २२ पृथ्वी दिवस र सेप्टेम्बर १६ ओजोन दिवस हुन्।",
+   "unit": "दिवस"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-5",
+   "question": "मानव शरीरको सबैभन्दा ठुलो अंग कुन हो?",
+   "options": [
+    "कलेजो",
+    "छाला",
+    "फोक्सो",
+    "मस्तिष्क"
+   ],
+   "answer_index": 1,
+   "answer": "छाला",
+   "explanation": "छाला शरीरको सबैभन्दा ठुलो अंग हो; भित्री अंगमध्ये कलेजो सबैभन्दा ठुलो हो।",
+   "unit": "जीवविज्ञान"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-6",
+   "question": "हरितगृह ग्यासमध्ये कुन सबैभन्दा धेरै मात्रामा उत्सर्जन हुन्छ?",
+   "options": [
+    "मिथेन",
+    "कार्बन डाइअक्साइड",
+    "नाइट्रस अक्साइड",
+    "सीएफसी"
+   ],
+   "answer_index": 1,
+   "answer": "कार्बन डाइअक्साइड",
+   "explanation": "मानवीय क्रियाकलापबाट सबैभन्दा धेरै उत्सर्जन हुने हरितगृह ग्यास कार्बन डाइअक्साइड हो।",
+   "unit": "जलवायु"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-7",
+   "question": "पानीको शुद्धताका लागि pH मान कति हुन्छ?",
+   "options": [
+    "०",
+    "७",
+    "१०",
+    "१४"
+   ],
+   "answer_index": 1,
+   "answer": "७",
+   "explanation": "शुद्ध पानी उदासीन हुन्छ र यसको pH मान ७ हुन्छ; ७ भन्दा कम अम्लीय र बढी क्षारीय हुन्छ।",
+   "unit": "रसायन"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-8",
+   "question": "नेपालको पहिलो रामसार सूचीकृत सिमसार क्षेत्र कुन हो?",
+   "options": [
+    "फेवा ताल",
+    "कोशी टप्पु",
+    "रारा ताल",
+    "गोसाइँकुण्ड"
+   ],
+   "answer_index": 1,
+   "answer": "कोशी टप्पु",
+   "explanation": "कोशी टप्पु क्षेत्र सन् १९८७ मा रामसार सूचीमा परेको नेपालको पहिलो सिमसार हो।",
+   "unit": "वातावरण"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-9",
+   "question": "कम्प्युटरको 'मस्तिष्क' कुन भागलाई भनिन्छ?",
+   "options": [
+    "RAM",
+    "CPU",
+    "हार्डडिस्क",
+    "मदरबोर्ड"
+   ],
+   "answer_index": 1,
+   "answer": "CPU",
+   "explanation": "केन्द्रीय प्रशोधन एकाइ (CPU) लाई कम्प्युटरको मस्तिष्क भनिन्छ।",
+   "unit": "सूचना प्रविधि"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-10",
+   "question": "ध्वनिको गति कुन माध्यममा सबैभन्दा बढी हुन्छ?",
+   "options": [
+    "हावामा",
+    "पानीमा",
+    "फलाममा",
+    "निर्वात्‌मा"
+   ],
+   "answer_index": 2,
+   "answer": "फलाममा",
+   "explanation": "ध्वनि ठोस माध्यम (जस्तै फलाम) मा सबैभन्दा छिटो र निर्वात्‌मा यात्रै गर्दैन।",
+   "unit": "भौतिक विज्ञान"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-11",
+   "question": "डेंगु रोग कुन लामखुट्टेले सार्छ?",
+   "options": [
+    "एनोफिलिज",
+    "एडिस",
+    "क्युलेक्स",
+    "सबैले"
+   ],
+   "answer_index": 1,
+   "answer": "एडिस",
+   "explanation": "डेंगु एडिस जातको लामखुट्टेले सार्छ; औलो (मलेरिया) एनोफिलिजले सार्छ।",
+   "unit": "स्वास्थ्य"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-12",
+   "question": "ओजोन तह वायुमण्डलको कुन तहमा पाइन्छ?",
+   "options": [
+    "क्षोभमण्डल (Troposphere)",
+    "समतापमण्डल (Stratosphere)",
+    "मध्यमण्डल (Mesosphere)",
+    "तापमण्डल (Thermosphere)"
+   ],
+   "answer_index": 1,
+   "answer": "समतापमण्डल (Stratosphere)",
+   "explanation": "ओजोन तह समतापमण्डलमा पाइन्छ र यसले सूर्यका हानिकारक पराबैजनी किरण छेक्छ।",
+   "unit": "वातावरण"
+  }
+ ]
+}

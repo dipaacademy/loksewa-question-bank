@@ -1,0 +1,182 @@
+{
+ "title": "अन्तर्राष्ट्रिय संगठन: लोकसेवा प्रश्न उत्तर सेट १",
+ "slug": "international-organisations-questions-set-1",
+ "exam": "loksewa",
+ "subject": "gk",
+ "language": "ne",
+ "description": "संयुक्त राष्ट्रसंघ, सार्क, बिम्स्टेक र अन्य अन्तर्राष्ट्रिय संगठनका स्थापना, मुख्यालय र नेपालको सदस्यतासम्बन्धी १२ प्रश्न, व्याख्यासहित।",
+ "practice_online": "https://dipaacademy.com/practice/loksewa/gk/international-organisations-questions-set-1",
+ "publisher": "Dipa Academy (दिपा एकेडेमी)",
+ "publisher_url": "https://dipaacademy.com/",
+ "license": "CC BY 4.0",
+ "questions": [
+  {
+   "id": "international-organisations-questions-set-1-1",
+   "question": "संयुक्त राष्ट्रसंघको स्थापना कहिले भयो?",
+   "options": [
+    "सन् १९१९",
+    "सन् १९४५ अक्टोबर २४",
+    "सन् १९४८",
+    "सन् १९५५"
+   ],
+   "answer_index": 1,
+   "answer": "सन् १९४५ अक्टोबर २४",
+   "explanation": "दोस्रो विश्वयुद्धपछि सन् १९४५ अक्टोबर २४ मा स्थापना भयो; त्यही दिन संयुक्त राष्ट्रसंघ दिवस मनाइन्छ।",
+   "unit": "संयुक्त राष्ट्रसंघ"
+  },
+  {
+   "id": "international-organisations-questions-set-1-2",
+   "question": "नेपाल संयुक्त राष्ट्रसंघको सदस्य कहिले बन्यो?",
+   "options": [
+    "सन् १९४५",
+    "सन् १९५५ डिसेम्बर १४",
+    "सन् १९६०",
+    "सन् १९७१"
+   ],
+   "answer_index": 1,
+   "answer": "सन् १९५५ डिसेम्बर १४",
+   "explanation": "नेपाल सन् १९५५ डिसेम्बर १४ मा संयुक्त राष्ट्रसंघको सदस्य बन्यो।",
+   "unit": "संयुक्त राष्ट्रसंघ"
+  },
+  {
+   "id": "international-organisations-questions-set-1-3",
+   "question": "सुरक्षा परिषद्मा कति सदस्य हुन्छन्?",
+   "options": [
+    "१० (५ स्थायी)",
+    "१५ (५ स्थायी)",
+    "२० (१० स्थायी)",
+    "५४"
+   ],
+   "answer_index": 1,
+   "answer": "१५ (५ स्थायी)",
+   "explanation": "सुरक्षा परिषद्मा १५ सदस्य हुन्छन्: ५ स्थायी (भिटो अधिकारसहित) र १० अस्थायी (दुई वर्षका लागि निर्वाचित)।",
+   "unit": "संयुक्त राष्ट्रसंघ"
+  },
+  {
+   "id": "international-organisations-questions-set-1-4",
+   "question": "सार्कको स्थापना कहिले र कहाँ भयो?",
+   "options": [
+    "सन् १९८३, नयाँ दिल्ली",
+    "सन् १९८५ डिसेम्बर ८, ढाका",
+    "सन् १९८५, काठमाडौं",
+    "सन् १९८७, कोलम्बो"
+   ],
+   "answer_index": 1,
+   "answer": "सन् १९८५ डिसेम्बर ८, ढाका",
+   "explanation": "सार्कको स्थापना सन् १९८५ डिसेम्बर ८ मा ढाका शिखर सम्मेलनबाट भयो; सचिवालय भने काठमाडौंमा छ (सन् १९८७ देखि)।",
+   "unit": "सार्क"
+  },
+  {
+   "id": "international-organisations-questions-set-1-5",
+   "question": "सार्कका सदस्य देश कति छन्?",
+   "options": [
+    "६",
+    "७",
+    "८",
+    "९"
+   ],
+   "answer_index": 2,
+   "answer": "८",
+   "explanation": "८ सदस्य: नेपाल, भारत, पाकिस्तान, बंगलादेश, श्रीलंका, भुटान, माल्दिभ्स र अफगानिस्तान (सन् २००७ मा थपिएको)।",
+   "unit": "सार्क"
+  },
+  {
+   "id": "international-organisations-questions-set-1-6",
+   "question": "बिम्स्टेकको सचिवालय कहाँ छ?",
+   "options": [
+    "काठमाडौं",
+    "ढाका",
+    "बैंकक",
+    "कोलम्बो"
+   ],
+   "answer_index": 1,
+   "answer": "ढाका",
+   "explanation": "बिम्स्टेक (स्थापना सन् १९९७) को स्थायी सचिवालय ढाकामा छ; सदस्य ७ देश छन्।",
+   "unit": "बिम्स्टेक"
+  },
+  {
+   "id": "international-organisations-questions-set-1-7",
+   "question": "विश्व स्वास्थ्य संगठन (WHO) को मुख्यालय कहाँ छ?",
+   "options": [
+    "न्युयोर्क",
+    "जेनेभा",
+    "पेरिस",
+    "रोम"
+   ],
+   "answer_index": 1,
+   "answer": "जेनेभा",
+   "explanation": "WHO (स्थापना सन् १९४८ अप्रिल ७, विश्व स्वास्थ्य दिवस) को मुख्यालय जेनेभा, स्विट्जरल्यान्डमा छ।",
+   "unit": "विशिष्ट निकाय"
+  },
+  {
+   "id": "international-organisations-questions-set-1-8",
+   "question": "अन्तर्राष्ट्रिय श्रम संगठन (ILO) को स्थापना कहिले भयो?",
+   "options": [
+    "सन् १९१९",
+    "सन् १९४५",
+    "सन् १९४८",
+    "सन् १९६६"
+   ],
+   "answer_index": 0,
+   "answer": "सन् १९१९",
+   "explanation": "ILO सन् १९१९ मा भर्सेल्स सन्धिअन्तर्गत स्थापना भयो; मुख्यालय जेनेभामा छ।",
+   "unit": "विशिष्ट निकाय"
+  },
+  {
+   "id": "international-organisations-questions-set-1-9",
+   "question": "अन्तर्राष्ट्रिय न्यायालय (ICJ) कहाँ छ?",
+   "options": [
+    "जेनेभा",
+    "न्युयोर्क",
+    "हेग",
+    "भियना"
+   ],
+   "answer_index": 2,
+   "answer": "हेग",
+   "explanation": "ICJ नेदरल्यान्ड्सको हेगमा छ; यो संयुक्त राष्ट्रसंघको प्रमुख न्यायिक अंग हो।",
+   "unit": "संयुक्त राष्ट्रसंघ"
+  },
+  {
+   "id": "international-organisations-questions-set-1-10",
+   "question": "UNESCO को मुख्यालय कहाँ छ?",
+   "options": [
+    "पेरिस",
+    "जेनेभा",
+    "रोम",
+    "लन्डन"
+   ],
+   "answer_index": 0,
+   "answer": "पेरिस",
+   "explanation": "शिक्षा, विज्ञान र संस्कृतिसम्बन्धी निकाय UNESCO को मुख्यालय पेरिसमा छ।",
+   "unit": "विशिष्ट निकाय"
+  },
+  {
+   "id": "international-organisations-questions-set-1-11",
+   "question": "अन्तर्राष्ट्रिय दूरसञ्चार संघ (ITU) को मुख्यालय कहाँ छ?",
+   "options": [
+    "दोहा",
+    "जेनेभा",
+    "न्युयोर्क",
+    "सिंगापुर"
+   ],
+   "answer_index": 1,
+   "answer": "जेनेभा",
+   "explanation": "ITU को मुख्यालय जेनेभामा छ; सन् २०२६ को पूर्णाधिकार सम्मेलन (PP-26) भने दोहामा भयो।",
+   "unit": "विशिष्ट निकाय"
+  },
+  {
+   "id": "international-organisations-questions-set-1-12",
+   "question": "जलवायु परिवर्तनसम्बन्धी COP-31 सम्मेलन सन् २०२६ मा कहाँ भयो?",
+   "options": [
+    "बाकु",
+    "बेलेम",
+    "अन्तालिया",
+    "दुबई"
+   ],
+   "answer_index": 2,
+   "answer": "अन्तालिया",
+   "explanation": "COP-31 टर्कीको अन्तालियामा भयो; नेपालले जलवायु वित्तमा अनुदानको हिस्सा बढाउन माग गर्दै आएको छ।",
+   "unit": "समसामयिक"
+  }
+ ]
+}

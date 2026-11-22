@@ -1,0 +1,182 @@
+{
+ "title": "कम्प्युटर सीप परीक्षण: लोकसेवा कम्प्युटर प्रश्न सेट १",
+ "slug": "computer-basics-questions-set-1",
+ "exam": "loksewa",
+ "subject": "computer",
+ "language": "ne",
+ "description": "खरिदार र नायब सुब्बाको अन्तिम चरणको कम्प्युटर सीप परीक्षण (Windows basic, MS Word र टाइपिङ) सँग जोडिएका १२ नमुना प्रश्न। परीक्षा प्रयोगात्मक हुन्छ, त्यसैले यी प्रश्नसँगै कम्प्युटरमा अभ्यास पनि गर्नुहोस्।",
+ "practice_online": "https://dipaacademy.com/practice/loksewa/computer/computer-basics-questions-set-1",
+ "publisher": "Dipa Academy (दिपा एकेडेमी)",
+ "publisher_url": "https://dipaacademy.com/",
+ "license": "CC BY 4.0",
+ "questions": [
+  {
+   "id": "computer-basics-questions-set-1-1",
+   "question": "MS Word मा छानिएको पाठ कपी गर्ने किबोर्ड सर्टकट कुन हो?",
+   "options": [
+    "Ctrl + X",
+    "Ctrl + C",
+    "Ctrl + V",
+    "Ctrl + P"
+   ],
+   "answer_index": 1,
+   "answer": "Ctrl + C",
+   "explanation": "Ctrl + C कपी, Ctrl + X काट्ने (cut), Ctrl + V टाँस्ने (paste) र Ctrl + P प्रिन्ट गर्ने सर्टकट हो।",
+   "unit": "Word Processing"
+  },
+  {
+   "id": "computer-basics-questions-set-1-2",
+   "question": "अघिल्लो काम रद्द (Undo) गर्ने सर्टकट कुन हो?",
+   "options": [
+    "Ctrl + Y",
+    "Ctrl + U",
+    "Ctrl + Z",
+    "Ctrl + R"
+   ],
+   "answer_index": 2,
+   "answer": "Ctrl + Z",
+   "explanation": "Ctrl + Z ले अघिल्लो काम रद्द गर्छ; Ctrl + Y ले Redo गर्छ।",
+   "unit": "Word Processing"
+  },
+  {
+   "id": "computer-basics-questions-set-1-3",
+   "question": "MS Word मा डकुमेन्ट सेभ गर्ने सर्टकट कुन हो?",
+   "options": [
+    "Ctrl + S",
+    "Ctrl + N",
+    "Ctrl + O",
+    "Ctrl + W"
+   ],
+   "answer_index": 0,
+   "answer": "Ctrl + S",
+   "explanation": "Ctrl + S सेभ, Ctrl + N नयाँ डकुमेन्ट, Ctrl + O खोल्ने र Ctrl + W बन्द गर्ने सर्टकट हो।",
+   "unit": "Word Processing"
+  },
+  {
+   "id": "computer-basics-questions-set-1-4",
+   "question": "MS Word (२००७ पछिका संस्करण) को पूर्वनिर्धारित फाइल एक्सटेन्सन कुन हो?",
+   "options": [
+    ".txt",
+    ".docx",
+    ".xlsx",
+    ".pptx"
+   ],
+   "answer_index": 1,
+   "answer": ".docx",
+   "explanation": ".docx Word को, .xlsx Excel को र .pptx PowerPoint को फाइल एक्सटेन्सन हो।",
+   "unit": "Windows Basic"
+  },
+  {
+   "id": "computer-basics-questions-set-1-5",
+   "question": "MS Word मा सबै पाठमा १.५ line spacing राख्ने सर्टकट कुन हो?",
+   "options": [
+    "Ctrl + 1",
+    "Ctrl + 2",
+    "Ctrl + 5",
+    "Ctrl + L"
+   ],
+   "answer_index": 2,
+   "answer": "Ctrl + 5",
+   "explanation": "पाठ छानेर Ctrl + 5 थिच्दा १.५ line spacing, Ctrl + 1 ले single र Ctrl + 2 ले double spacing हुन्छ।",
+   "unit": "Word Processing"
+  },
+  {
+   "id": "computer-basics-questions-set-1-6",
+   "question": "MS Word मा Header र Footer राख्ने विकल्प कुन ट्याबमा हुन्छ?",
+   "options": [
+    "Home",
+    "Insert",
+    "Review",
+    "View"
+   ],
+   "answer_index": 1,
+   "answer": "Insert",
+   "explanation": "Insert ट्याबमा Header, Footer र Page Number का विकल्प हुन्छन्।",
+   "unit": "Word Processing"
+  },
+  {
+   "id": "computer-basics-questions-set-1-7",
+   "question": "MS Word मा पेजको मार्जिन (Margins) मिलाउने विकल्प सामान्यतया कुन ट्याबमा हुन्छ?",
+   "options": [
+    "Home",
+    "Insert",
+    "Layout",
+    "References"
+   ],
+   "answer_index": 2,
+   "answer": "Layout",
+   "explanation": "Layout (पुराना संस्करणमा Page Layout) ट्याबमा Margins, Orientation र Size हुन्छन्।",
+   "unit": "Word Processing"
+  },
+  {
+   "id": "computer-basics-questions-set-1-8",
+   "question": "कम्प्युटर बन्द गर्दा कुन मेमोरीमा भएको डाटा मेटिन्छ?",
+   "options": [
+    "Hard disk",
+    "RAM",
+    "ROM",
+    "Pen drive"
+   ],
+   "answer_index": 1,
+   "answer": "RAM",
+   "explanation": "RAM अस्थायी (volatile) मेमोरी हो; बिजुली जाँदा यसको डाटा मेटिन्छ।",
+   "unit": "Windows Basic"
+  },
+  {
+   "id": "computer-basics-questions-set-1-9",
+   "question": "१ किलोबाइट (KB) बराबर कति बाइट हुन्छ?",
+   "options": [
+    "१००",
+    "१,०००",
+    "१,०२४",
+    "१,०४८"
+   ],
+   "answer_index": 2,
+   "answer": "१,०२४",
+   "explanation": "कम्प्युटरमा १ KB = १,०२४ बाइट, १ MB = १,०२४ KB मानिन्छ।",
+   "unit": "Windows Basic"
+  },
+  {
+   "id": "computer-basics-questions-set-1-10",
+   "question": "Windows मा Shift + Delete थिचेर फाइल मेटाउँदा के हुन्छ?",
+   "options": [
+    "फाइल Recycle Bin मा जान्छ",
+    "फाइल Recycle Bin मा नगई सिधै मेटिन्छ",
+    "फाइल कपी हुन्छ",
+    "फाइल लुकाइन्छ"
+   ],
+   "answer_index": 1,
+   "answer": "फाइल Recycle Bin मा नगई सिधै मेटिन्छ",
+   "explanation": "Shift + Delete ले फाइल Recycle Bin मा नपठाई स्थायी रूपमा मेटाउँछ; सामान्य Delete ले Recycle Bin मा पठाउँछ।",
+   "unit": "Windows Basic"
+  },
+  {
+   "id": "computer-basics-questions-set-1-11",
+   "question": "युनिकोड (Unicode) मा टाइप गरेको नेपाली पाठको मुख्य फाइदा के हो?",
+   "options": [
+    "फाइल सानो हुन्छ",
+    "विशेष फन्ट नभएको कम्प्युटर वा फोनमा पनि सही अक्षर देखिन्छ",
+    "टाइपिङ आफैँ छिटो हुन्छ",
+    "प्रिन्ट गर्न मिल्दैन"
+   ],
+   "answer_index": 1,
+   "answer": "विशेष फन्ट नभएको कम्प्युटर वा फोनमा पनि सही अक्षर देखिन्छ",
+   "explanation": "Preeti जस्ता फन्टमा अक्षर अंग्रेजी कोडमा बस्छन्, फन्ट नभए बिग्रन्छन्; युनिकोड सबै उपकरणमा उही देखिन्छ।",
+   "unit": "टाइपिङ"
+  },
+  {
+   "id": "computer-basics-questions-set-1-12",
+   "question": "लोक सेवा आयोगको कम्प्युटर सीप परीक्षणमा शुद्ध शब्द प्रति मिनेट कसरी निकालिन्छ?",
+   "options": [
+    "जम्मा शब्द ÷ ५",
+    "(जम्मा टाइप गरेका शब्द − गलत शब्द) ÷ ५",
+    "गलत शब्द ÷ ५",
+    "(जम्मा शब्द + गलत शब्द) ÷ १०"
+   ],
+   "answer_index": 1,
+   "answer": "(जम्मा टाइप गरेका शब्द − गलत शब्द) ÷ ५",
+   "explanation": "पाठ्यक्रमअनुसार ५ मिनेटको टाइपिङमा (टाइप गरेका जम्मा शब्द − गलत शब्द) ÷ ५ बाट शुद्ध शब्द प्रति मिनेट निकालिन्छ।",
+   "unit": "टाइपिङ"
+  }
+ ]
+}

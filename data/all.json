@@ -1,0 +1,3644 @@
+{
+ "publisher": "Dipa Academy (दिपा एकेडेमी)",
+ "publisher_url": "https://dipaacademy.com/",
+ "license": "CC BY 4.0",
+ "count": 202,
+ "questions": [
+  {
+   "id": "computer-basics-questions-set-1-1",
+   "question": "MS Word मा छानिएको पाठ कपी गर्ने किबोर्ड सर्टकट कुन हो?",
+   "options": [
+    "Ctrl + X",
+    "Ctrl + C",
+    "Ctrl + V",
+    "Ctrl + P"
+   ],
+   "answer_index": 1,
+   "answer": "Ctrl + C",
+   "explanation": "Ctrl + C कपी, Ctrl + X काट्ने (cut), Ctrl + V टाँस्ने (paste) र Ctrl + P प्रिन्ट गर्ने सर्टकट हो।",
+   "unit": "Word Processing",
+   "set": "computer-basics-questions-set-1",
+   "exam": "loksewa",
+   "subject": "computer",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/computer/computer-basics-questions-set-1"
+  },
+  {
+   "id": "computer-basics-questions-set-1-2",
+   "question": "अघिल्लो काम रद्द (Undo) गर्ने सर्टकट कुन हो?",
+   "options": [
+    "Ctrl + Y",
+    "Ctrl + U",
+    "Ctrl + Z",
+    "Ctrl + R"
+   ],
+   "answer_index": 2,
+   "answer": "Ctrl + Z",
+   "explanation": "Ctrl + Z ले अघिल्लो काम रद्द गर्छ; Ctrl + Y ले Redo गर्छ।",
+   "unit": "Word Processing",
+   "set": "computer-basics-questions-set-1",
+   "exam": "loksewa",
+   "subject": "computer",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/computer/computer-basics-questions-set-1"
+  },
+  {
+   "id": "computer-basics-questions-set-1-3",
+   "question": "MS Word मा डकुमेन्ट सेभ गर्ने सर्टकट कुन हो?",
+   "options": [
+    "Ctrl + S",
+    "Ctrl + N",
+    "Ctrl + O",
+    "Ctrl + W"
+   ],
+   "answer_index": 0,
+   "answer": "Ctrl + S",
+   "explanation": "Ctrl + S सेभ, Ctrl + N नयाँ डकुमेन्ट, Ctrl + O खोल्ने र Ctrl + W बन्द गर्ने सर्टकट हो।",
+   "unit": "Word Processing",
+   "set": "computer-basics-questions-set-1",
+   "exam": "loksewa",
+   "subject": "computer",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/computer/computer-basics-questions-set-1"
+  },
+  {
+   "id": "computer-basics-questions-set-1-4",
+   "question": "MS Word (२००७ पछिका संस्करण) को पूर्वनिर्धारित फाइल एक्सटेन्सन कुन हो?",
+   "options": [
+    ".txt",
+    ".docx",
+    ".xlsx",
+    ".pptx"
+   ],
+   "answer_index": 1,
+   "answer": ".docx",
+   "explanation": ".docx Word को, .xlsx Excel को र .pptx PowerPoint को फाइल एक्सटेन्सन हो।",
+   "unit": "Windows Basic",
+   "set": "computer-basics-questions-set-1",
+   "exam": "loksewa",
+   "subject": "computer",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/computer/computer-basics-questions-set-1"
+  },
+  {
+   "id": "computer-basics-questions-set-1-5",
+   "question": "MS Word मा सबै पाठमा १.५ line spacing राख्ने सर्टकट कुन हो?",
+   "options": [
+    "Ctrl + 1",
+    "Ctrl + 2",
+    "Ctrl + 5",
+    "Ctrl + L"
+   ],
+   "answer_index": 2,
+   "answer": "Ctrl + 5",
+   "explanation": "पाठ छानेर Ctrl + 5 थिच्दा १.५ line spacing, Ctrl + 1 ले single र Ctrl + 2 ले double spacing हुन्छ।",
+   "unit": "Word Processing",
+   "set": "computer-basics-questions-set-1",
+   "exam": "loksewa",
+   "subject": "computer",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/computer/computer-basics-questions-set-1"
+  },
+  {
+   "id": "computer-basics-questions-set-1-6",
+   "question": "MS Word मा Header र Footer राख्ने विकल्प कुन ट्याबमा हुन्छ?",
+   "options": [
+    "Home",
+    "Insert",
+    "Review",
+    "View"
+   ],
+   "answer_index": 1,
+   "answer": "Insert",
+   "explanation": "Insert ट्याबमा Header, Footer र Page Number का विकल्प हुन्छन्।",
+   "unit": "Word Processing",
+   "set": "computer-basics-questions-set-1",
+   "exam": "loksewa",
+   "subject": "computer",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/computer/computer-basics-questions-set-1"
+  },
+  {
+   "id": "computer-basics-questions-set-1-7",
+   "question": "MS Word मा पेजको मार्जिन (Margins) मिलाउने विकल्प सामान्यतया कुन ट्याबमा हुन्छ?",
+   "options": [
+    "Home",
+    "Insert",
+    "Layout",
+    "References"
+   ],
+   "answer_index": 2,
+   "answer": "Layout",
+   "explanation": "Layout (पुराना संस्करणमा Page Layout) ट्याबमा Margins, Orientation र Size हुन्छन्।",
+   "unit": "Word Processing",
+   "set": "computer-basics-questions-set-1",
+   "exam": "loksewa",
+   "subject": "computer",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/computer/computer-basics-questions-set-1"
+  },
+  {
+   "id": "computer-basics-questions-set-1-8",
+   "question": "कम्प्युटर बन्द गर्दा कुन मेमोरीमा भएको डाटा मेटिन्छ?",
+   "options": [
+    "Hard disk",
+    "RAM",
+    "ROM",
+    "Pen drive"
+   ],
+   "answer_index": 1,
+   "answer": "RAM",
+   "explanation": "RAM अस्थायी (volatile) मेमोरी हो; बिजुली जाँदा यसको डाटा मेटिन्छ।",
+   "unit": "Windows Basic",
+   "set": "computer-basics-questions-set-1",
+   "exam": "loksewa",
+   "subject": "computer",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/computer/computer-basics-questions-set-1"
+  },
+  {
+   "id": "computer-basics-questions-set-1-9",
+   "question": "१ किलोबाइट (KB) बराबर कति बाइट हुन्छ?",
+   "options": [
+    "१००",
+    "१,०००",
+    "१,०२४",
+    "१,०४८"
+   ],
+   "answer_index": 2,
+   "answer": "१,०२४",
+   "explanation": "कम्प्युटरमा १ KB = १,०२४ बाइट, १ MB = १,०२४ KB मानिन्छ।",
+   "unit": "Windows Basic",
+   "set": "computer-basics-questions-set-1",
+   "exam": "loksewa",
+   "subject": "computer",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/computer/computer-basics-questions-set-1"
+  },
+  {
+   "id": "computer-basics-questions-set-1-10",
+   "question": "Windows मा Shift + Delete थिचेर फाइल मेटाउँदा के हुन्छ?",
+   "options": [
+    "फाइल Recycle Bin मा जान्छ",
+    "फाइल Recycle Bin मा नगई सिधै मेटिन्छ",
+    "फाइल कपी हुन्छ",
+    "फाइल लुकाइन्छ"
+   ],
+   "answer_index": 1,
+   "answer": "फाइल Recycle Bin मा नगई सिधै मेटिन्छ",
+   "explanation": "Shift + Delete ले फाइल Recycle Bin मा नपठाई स्थायी रूपमा मेटाउँछ; सामान्य Delete ले Recycle Bin मा पठाउँछ।",
+   "unit": "Windows Basic",
+   "set": "computer-basics-questions-set-1",
+   "exam": "loksewa",
+   "subject": "computer",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/computer/computer-basics-questions-set-1"
+  },
+  {
+   "id": "computer-basics-questions-set-1-11",
+   "question": "युनिकोड (Unicode) मा टाइप गरेको नेपाली पाठको मुख्य फाइदा के हो?",
+   "options": [
+    "फाइल सानो हुन्छ",
+    "विशेष फन्ट नभएको कम्प्युटर वा फोनमा पनि सही अक्षर देखिन्छ",
+    "टाइपिङ आफैँ छिटो हुन्छ",
+    "प्रिन्ट गर्न मिल्दैन"
+   ],
+   "answer_index": 1,
+   "answer": "विशेष फन्ट नभएको कम्प्युटर वा फोनमा पनि सही अक्षर देखिन्छ",
+   "explanation": "Preeti जस्ता फन्टमा अक्षर अंग्रेजी कोडमा बस्छन्, फन्ट नभए बिग्रन्छन्; युनिकोड सबै उपकरणमा उही देखिन्छ।",
+   "unit": "टाइपिङ",
+   "set": "computer-basics-questions-set-1",
+   "exam": "loksewa",
+   "subject": "computer",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/computer/computer-basics-questions-set-1"
+  },
+  {
+   "id": "computer-basics-questions-set-1-12",
+   "question": "लोक सेवा आयोगको कम्प्युटर सीप परीक्षणमा शुद्ध शब्द प्रति मिनेट कसरी निकालिन्छ?",
+   "options": [
+    "जम्मा शब्द ÷ ५",
+    "(जम्मा टाइप गरेका शब्द − गलत शब्द) ÷ ५",
+    "गलत शब्द ÷ ५",
+    "(जम्मा शब्द + गलत शब्द) ÷ १०"
+   ],
+   "answer_index": 1,
+   "answer": "(जम्मा टाइप गरेका शब्द − गलत शब्द) ÷ ५",
+   "explanation": "पाठ्यक्रमअनुसार ५ मिनेटको टाइपिङमा (टाइप गरेका जम्मा शब्द − गलत शब्द) ÷ ५ बाट शुद्ध शब्द प्रति मिनेट निकालिन्छ।",
+   "unit": "टाइपिङ",
+   "set": "computer-basics-questions-set-1",
+   "exam": "loksewa",
+   "subject": "computer",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/computer/computer-basics-questions-set-1"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-1-1",
+   "question": "नेपालको संविधानमा कति धारा छन्?",
+   "options": [
+    "२९४",
+    "३०८",
+    "३२१",
+    "३५"
+   ],
+   "answer_index": 1,
+   "answer": "३०८",
+   "explanation": "संविधानमा ३५ भाग, ३०८ धारा र ९ अनुसूची छन्।",
+   "unit": "संविधानको संरचना",
+   "set": "constitution-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-1"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-1-2",
+   "question": "मौलिक हक संविधानको कुन भागमा छन्?",
+   "options": [
+    "भाग २",
+    "भाग ३",
+    "भाग ४",
+    "भाग ५"
+   ],
+   "answer_index": 1,
+   "answer": "भाग ३",
+   "explanation": "भाग ३ (धारा १६–४६) मा मौलिक हक र कर्तव्य छन्; मौलिक कर्तव्य धारा ४८ मा।",
+   "unit": "मौलिक हक",
+   "set": "constitution-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-1"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-1-3",
+   "question": "सम्मानपूर्वक बाँच्न पाउने हक कुन धारामा छ?",
+   "options": [
+    "धारा १६",
+    "धारा १७",
+    "धारा १८",
+    "धारा ४६"
+   ],
+   "answer_index": 0,
+   "answer": "धारा १६",
+   "explanation": "धारा १६ सम्मानपूर्वक बाँच्न पाउने हक, धारा १७ स्वतन्त्रताको हक, धारा १८ समानताको हक हो।",
+   "unit": "मौलिक हक",
+   "set": "constitution-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-1"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-1-4",
+   "question": "संवैधानिक उपचारको हक कुन धारामा छ?",
+   "options": [
+    "धारा ४२",
+    "धारा ४४",
+    "धारा ४६",
+    "धारा ४८"
+   ],
+   "answer_index": 2,
+   "answer": "धारा ४६",
+   "explanation": "धारा ४६ मा भाग ३ का हक कार्यान्वयनका लागि धारा १३३ वा १४४ बमोजिम संवैधानिक उपचार पाउने हक छ।",
+   "unit": "मौलिक हक",
+   "set": "constitution-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-1"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-1-5",
+   "question": "राज्यका निर्देशक सिद्धान्त, नीति तथा दायित्व संविधानको कुन भागमा छन्?",
+   "options": [
+    "भाग ३",
+    "भाग ४",
+    "भाग ५",
+    "भाग ६"
+   ],
+   "answer_index": 1,
+   "answer": "भाग ४",
+   "explanation": "भाग ४ (धारा ४९–५५) मा निर्देशक सिद्धान्त (धारा ५०), नीति (धारा ५१) र दायित्व छन्।",
+   "unit": "निर्देशक सिद्धान्त",
+   "set": "constitution-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-1"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-1-6",
+   "question": "प्रतिनिधि सभामा जम्मा कति सदस्य हुन्छन्?",
+   "options": [
+    "२४०",
+    "२७५",
+    "६०१",
+    "५९"
+   ],
+   "answer_index": 1,
+   "answer": "२७५",
+   "explanation": "प्रतिनिधि सभामा पहिलो हुने निर्वाचित हुने प्रणालीबाट १६५ र समानुपातिकबाट ११० गरी २७५ सदस्य हुन्छन्।",
+   "unit": "संघीय संसद",
+   "set": "constitution-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-1"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-1-7",
+   "question": "राष्ट्रिय सभामा कति सदस्य हुन्छन्?",
+   "options": [
+    "५६",
+    "५९",
+    "६०",
+    "७५"
+   ],
+   "answer_index": 1,
+   "answer": "५९",
+   "explanation": "राष्ट्रिय सभामा ५९ सदस्य: प्रत्येक प्रदेशबाट ८ जना गरी ५६ निर्वाचित र राष्ट्रपतिबाट मनोनीत ३।",
+   "unit": "संघीय संसद",
+   "set": "constitution-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-1"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-1-8",
+   "question": "राष्ट्रपतिको पदावधि कति वर्षको हुन्छ?",
+   "options": [
+    "४ वर्ष",
+    "५ वर्ष",
+    "६ वर्ष",
+    "७ वर्ष"
+   ],
+   "answer_index": 1,
+   "answer": "५ वर्ष",
+   "explanation": "राष्ट्रपतिको पदावधि निर्वाचित भएको मितिले ५ वर्ष हुन्छ; एउटै व्यक्ति दुई कार्यकालभन्दा बढी राष्ट्रपति हुन पाउँदैन।",
+   "unit": "कार्यपालिका",
+   "set": "constitution-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-1"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-1-9",
+   "question": "लोक सेवा आयोगसम्बन्धी व्यवस्था संविधानको कुन धारामा छ?",
+   "options": [
+    "धारा २३८",
+    "धारा २४०",
+    "धारा २४२",
+    "धारा २४५"
+   ],
+   "answer_index": 2,
+   "answer": "धारा २४२",
+   "explanation": "धारा २४२ लोक सेवा आयोग, धारा २३८ अख्तियार दुरुपयोग अनुसन्धान आयोग, धारा २४० महालेखा परीक्षक र धारा २४५ निर्वाचन आयोगसम्बन्धी हो।",
+   "unit": "संवैधानिक निकाय",
+   "set": "constitution-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-1"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-1-10",
+   "question": "सर्वोच्च अदालतमा प्रधानन्यायाधीशबाहेक बढीमा कति न्यायाधीश रहन सक्छन्?",
+   "options": [
+    "१४",
+    "१५",
+    "२०",
+    "२१"
+   ],
+   "answer_index": 2,
+   "answer": "२०",
+   "explanation": "धारा १२९ अनुसार सर्वोच्च अदालतमा प्रधानन्यायाधीशका अतिरिक्त बढीमा २० जना न्यायाधीश रहन्छन्।",
+   "unit": "न्यायपालिका",
+   "set": "constitution-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-1"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-1-11",
+   "question": "संविधान संशोधनसम्बन्धी व्यवस्था कुन धारामा छ?",
+   "options": [
+    "धारा २६६",
+    "धारा २७४",
+    "धारा २९६",
+    "धारा ३०८"
+   ],
+   "answer_index": 1,
+   "answer": "धारा २७४",
+   "explanation": "धारा २७४ मा संविधान संशोधनको व्यवस्था छ; सार्वभौमसत्ता, भौगोलिक अखण्डता र स्वाधीनता प्रतिकूल हुने गरी संशोधन गर्न पाइँदैन।",
+   "unit": "संविधान संशोधन",
+   "set": "constitution-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-1"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-1-12",
+   "question": "संविधानअनुसार नेपालको राष्ट्रिय फूल कुन हो?",
+   "options": [
+    "सयपत्री",
+    "लालीगुराँस",
+    "मखमली",
+    "कमल"
+   ],
+   "answer_index": 1,
+   "answer": "लालीगुराँस",
+   "explanation": "धारा ९ अनुसार राष्ट्रिय फूल लालीगुराँस, राष्ट्रिय रङ सिम्रिक, राष्ट्रिय पक्षी डाँफे र राष्ट्रिय जनावर गाई हो।",
+   "unit": "राष्ट्रिय चिह्न",
+   "set": "constitution-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-1"
+  },
+  {
+   "id": "current-affairs-questions-kartik-2083-1",
+   "question": "कोप-३१ (COP31) जलवायु सम्मेलन कहाँ भइरहेको छ?",
+   "options": [
+    "बाकु, अजरबैजान",
+    "अन्टाल्या, टर्किये",
+    "दुबई, यूएई",
+    "बेलेम, ब्राजिल"
+   ],
+   "answer_index": 1,
+   "answer": "अन्टाल्या, टर्किये",
+   "explanation": "द काठमाडौं पोस्टअनुसार कोप-३१ टर्कियेको अन्टाल्यामा नोभेम्बर ९–२०, २०२६ मा भइरहेको छ।",
+   "unit": "अन्तर्राष्ट्रिय सम्बन्ध",
+   "set": "current-affairs-questions-kartik-2083",
+   "exam": "loksewa",
+   "subject": "current-affairs",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/current-affairs/current-affairs-questions-kartik-2083"
+  },
+  {
+   "id": "current-affairs-questions-kartik-2083-2",
+   "question": "टाइमको सन् २०२६ का १०० प्रभावशाली जलवायु नेताको सूचीमा परेका नेपाली मन्त्री को हुन्?",
+   "options": [
+    "शिशिर खनाल",
+    "स्वर्णिम वाग्ले",
+    "विराजभक्त श्रेष्ठ",
+    "दीपककुमार साह"
+   ],
+   "answer_index": 1,
+   "answer": "स्वर्णिम वाग्ले",
+   "explanation": "अर्थमन्त्री स्वर्णिम वाग्ले।",
+   "unit": "समसामयिक व्यक्तित्व",
+   "set": "current-affairs-questions-kartik-2083",
+   "exam": "loksewa",
+   "subject": "current-affairs",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/current-affairs/current-affairs-questions-kartik-2083"
+  },
+  {
+   "id": "current-affairs-questions-kartik-2083-3",
+   "question": "लोक सेवा आयोगले आ.व. २०८२/८३ को वार्षिक प्रतिवेदन कति औँ प्रतिवेदनका रूपमा पेश गर्‍यो?",
+   "options": [
+    "६५औँ",
+    "६६औँ",
+    "६७औँ",
+    "७६औँ"
+   ],
+   "answer_index": 2,
+   "answer": "६७औँ",
+   "explanation": "आयोगले २०८३ भदौ २५ मा ६७औँ वार्षिक प्रतिवेदन राष्ट्रपतिसमक्ष पेश गर्‍यो।",
+   "unit": "लोक सेवा आयोग",
+   "set": "current-affairs-questions-kartik-2083",
+   "exam": "loksewa",
+   "subject": "current-affairs",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/current-affairs/current-affairs-questions-kartik-2083"
+  },
+  {
+   "id": "current-affairs-questions-kartik-2083-4",
+   "question": "आयोगको ६७औँ वार्षिक प्रतिवेदनअनुसार प्रतिपद कति दरखास्त परे?",
+   "options": [
+    "१००",
+    "१५०",
+    "२५०",
+    "५००"
+   ],
+   "answer_index": 2,
+   "answer": "२५०",
+   "explanation": "३,८२,९४७ दरखास्त र विज्ञापित पदका आधारमा प्रतिपद २५० दरखास्त।",
+   "unit": "लोक सेवा आयोग",
+   "set": "current-affairs-questions-kartik-2083",
+   "exam": "loksewa",
+   "subject": "current-affairs",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/current-affairs/current-affairs-questions-kartik-2083"
+  },
+  {
+   "id": "current-affairs-questions-kartik-2083-5",
+   "question": "लोक सेवा आयोगले शाखा अधिकृतको विज्ञापन कुन मितिमा प्रकाशित गर्‍यो?",
+   "options": [
+    "२०८३ भदौ ३१",
+    "२०८३ असोज २८",
+    "२०८३ कात्तिक २५",
+    "२०८३ मंसिर २३"
+   ],
+   "answer_index": 2,
+   "answer": "२०८३ कात्तिक २५",
+   "explanation": "कात्तिक २५ (११ नोभेम्बर २०२६), कात्तिकको अन्तिम बुधबार। भदौ ३१ मा सहसचिव र असोज २८ मा उपसचिवको विज्ञापन आएको थियो।",
+   "unit": "लोक सेवा आयोग",
+   "set": "current-affairs-questions-kartik-2083",
+   "exam": "loksewa",
+   "subject": "current-affairs",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/current-affairs/current-affairs-questions-kartik-2083"
+  },
+  {
+   "id": "current-affairs-questions-kartik-2083-6",
+   "question": "WTO को व्यापार नीति समीक्षाअनुसार नेपालको कुल गार्हस्थ्य उत्पादनमा उत्पादन (manufacturing) क्षेत्रको योगदान करिब कति छ?",
+   "options": [
+    "४.९%",
+    "१०%",
+    "१५%",
+    "२५.३%"
+   ],
+   "answer_index": 0,
+   "answer": "४.९%",
+   "explanation": "करिब ४.९ प्रतिशत; २५.३ प्रतिशत विप्रेषणको हिस्सा हो।",
+   "unit": "अर्थतन्त्र",
+   "set": "current-affairs-questions-kartik-2083",
+   "exam": "loksewa",
+   "subject": "current-affairs",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/current-affairs/current-affairs-questions-kartik-2083"
+  },
+  {
+   "id": "current-affairs-questions-kartik-2083-7",
+   "question": "भारतीय कम्पनीले लिएका जलविद्युत आयोजनामध्ये निर्माणाधीन एक मात्र आयोजना कुन हो?",
+   "options": [
+    "माथिल्लो कर्णाली",
+    "अरुण-३",
+    "पश्चिम सेती",
+    "तल्लो अरुण"
+   ],
+   "answer_index": 1,
+   "answer": "अरुण-३",
+   "explanation": "९०० मेगावाटको अरुण-३ मात्र निर्माणाधीन छ।",
+   "unit": "अर्थतन्त्र र ऊर्जा",
+   "set": "current-affairs-questions-kartik-2083",
+   "exam": "loksewa",
+   "subject": "current-affairs",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/current-affairs/current-affairs-questions-kartik-2083"
+  },
+  {
+   "id": "current-affairs-questions-kartik-2083-8",
+   "question": "अक्टोबर २०२६ मा नेपालको सबैभन्दा ठूलो पर्यटक स्रोत बजार कुन देश बन्यो?",
+   "options": [
+    "भारत",
+    "चीन",
+    "अमेरिका",
+    "बेलायत"
+   ],
+   "answer_index": 2,
+   "answer": "अमेरिका",
+   "explanation": "नेपाल पर्यटन बोर्डको तथ्याङ्कअनुसार पहिलो पटक अमेरिकाले भारतलाई उछिन्यो।",
+   "unit": "पर्यटन",
+   "set": "current-affairs-questions-kartik-2083",
+   "exam": "loksewa",
+   "subject": "current-affairs",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/current-affairs/current-affairs-questions-kartik-2083"
+  },
+  {
+   "id": "current-affairs-questions-kartik-2083-9",
+   "question": "विश्व बैंकको Nepal Poverty and Equity Brief अनुसार दैनिक ३ डलरको रेखाबाट नेपालमा अति गरिबी कति प्रतिशत छ?",
+   "options": [
+    "२.४%",
+    "८.३%",
+    "२०%",
+    "५२.७%"
+   ],
+   "answer_index": 0,
+   "answer": "२.४%",
+   "explanation": "सन् २०२२ मा २.४ प्रतिशत; ५२.७ प्रतिशत दैनिक ८.३० डलरको रेखामुनि छन्।",
+   "unit": "अर्थतन्त्र",
+   "set": "current-affairs-questions-kartik-2083",
+   "exam": "loksewa",
+   "subject": "current-affairs",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/current-affairs/current-affairs-questions-kartik-2083"
+  },
+  {
+   "id": "current-affairs-questions-kartik-2083-10",
+   "question": "लक्ष्मीपूजा, २०८३ को साँझ नेपालको राष्ट्रिय प्रणालीमा विद्युतको उच्चतम माग कति पुग्यो?",
+   "options": [
+    "१,६०२ मेगावाट",
+    "१,७०० मेगावाट",
+    "१,८१३ मेगावाट",
+    "२,५०० मेगावाट"
+   ],
+   "answer_index": 2,
+   "answer": "१,८१३ मेगावाट",
+   "explanation": "नेपाल विद्युत प्राधिकरणका अनुसार १,८१३ मेगावाट।",
+   "unit": "ऊर्जा",
+   "set": "current-affairs-questions-kartik-2083",
+   "exam": "loksewa",
+   "subject": "current-affairs",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/current-affairs/current-affairs-questions-kartik-2083"
+  },
+  {
+   "id": "current-affairs-questions-kartik-2083-11",
+   "question": "साउदी अरबले स्वदेशी कर्मचारी अनिवार्य गर्ने गरी कोटा तोकेका पद कति छन्?",
+   "options": [
+    "२८",
+    "६९",
+    "९७",
+    "१००"
+   ],
+   "answer_index": 2,
+   "answer": "९७",
+   "explanation": "पर्यटनका २८ र प्रशासनिक तथा सहायक ६९ गरी ९७ पद।",
+   "unit": "वैदेशिक रोजगार",
+   "set": "current-affairs-questions-kartik-2083",
+   "exam": "loksewa",
+   "subject": "current-affairs",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/current-affairs/current-affairs-questions-kartik-2083"
+  },
+  {
+   "id": "current-affairs-questions-kartik-2083-12",
+   "question": "संविधानअनुसार सर्वोच्च अदालतका न्यायाधीशमाथि महाअभियोग पारित गर्न प्रतिनिधि सभाको कति मत चाहिन्छ?",
+   "options": [
+    "साधारण बहुमत",
+    "दुई तिहाइ",
+    "तीन चौथाइ",
+    "एक चौथाइ"
+   ],
+   "answer_index": 1,
+   "answer": "दुई तिहाइ",
+   "explanation": "धारा १०१ अनुसार कायम रहेका सदस्यको दुई तिहाइ; एक चौथाइ सदस्यले प्रस्ताव दर्ता गर्न सक्छन्।",
+   "unit": "संविधान",
+   "set": "current-affairs-questions-kartik-2083",
+   "exam": "loksewa",
+   "subject": "current-affairs",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/current-affairs/current-affairs-questions-kartik-2083"
+  },
+  {
+   "id": "geography-of-nepal-questions-set-1-1",
+   "question": "नेपाल कुन अक्षांशबीच पर्छ?",
+   "options": [
+    "२६°२२' देखि ३०°२७' उत्तर",
+    "२४° देखि २८° उत्तर",
+    "२८° देखि ३२° उत्तर",
+    "८०°४' देखि ८८°१२' उत्तर"
+   ],
+   "answer_index": 0,
+   "answer": "२६°२२' देखि ३०°२७' उत्तर",
+   "explanation": "नेपाल २६°२२' देखि ३०°२७' उत्तरी अक्षांश र ८०°४' देखि ८८°१२' पूर्वी देशान्तरबीच पर्छ।",
+   "unit": "अवस्थिति",
+   "set": "geography-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "geography",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/geography/geography-of-nepal-questions-set-1"
+  },
+  {
+   "id": "geography-of-nepal-questions-set-1-2",
+   "question": "नेपाल कुन देशान्तरबीच पर्छ?",
+   "options": [
+    "७८° देखि ८६° पूर्व",
+    "८०°४' देखि ८८°१२' पूर्व",
+    "८२° देखि ९०° पूर्व",
+    "२६°२२' देखि ३०°२७' पूर्व"
+   ],
+   "answer_index": 1,
+   "answer": "८०°४' देखि ८८°१२' पूर्व",
+   "explanation": "नेपालको पूर्वी देशान्तर ८०°४' देखि ८८°१२' सम्म छ।",
+   "unit": "अवस्थिति",
+   "set": "geography-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "geography",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/geography/geography-of-nepal-questions-set-1"
+  },
+  {
+   "id": "geography-of-nepal-questions-set-1-3",
+   "question": "नेपालको पूर्व-पश्चिम औसत लम्बाइ करिब कति छ?",
+   "options": [
+    "१९३ किमि",
+    "५०० किमि",
+    "८८५ किमि",
+    "१,२०० किमि"
+   ],
+   "answer_index": 2,
+   "answer": "८८५ किमि",
+   "explanation": "नेपालको पूर्व-पश्चिम औसत लम्बाइ करिब ८८५ किमि र उत्तर-दक्षिण औसत चौडाइ करिब १९३ किमि मानिन्छ।",
+   "unit": "अवस्थिति",
+   "set": "geography-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "geography",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/geography/geography-of-nepal-questions-set-1"
+  },
+  {
+   "id": "geography-of-nepal-questions-set-1-4",
+   "question": "धरातलका आधारमा नेपाललाई मुख्य रूपमा कति भागमा बाँडिन्छ?",
+   "options": [
+    "२",
+    "३",
+    "५",
+    "७"
+   ],
+   "answer_index": 1,
+   "answer": "३",
+   "explanation": "हिमाली, पहाडी र तराई गरी तीन मुख्य भौगोलिक क्षेत्र।",
+   "unit": "धरातल",
+   "set": "geography-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "geography",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/geography/geography-of-nepal-questions-set-1"
+  },
+  {
+   "id": "geography-of-nepal-questions-set-1-5",
+   "question": "चुरे पर्वत शृङ्खलालाई अर्को कुन नामले चिनिन्छ?",
+   "options": [
+    "महाभारत",
+    "शिवालिक",
+    "हिमाचल",
+    "भित्री मधेस"
+   ],
+   "answer_index": 1,
+   "answer": "शिवालिक",
+   "explanation": "चुरेलाई शिवालिक पनि भनिन्छ; यो तराईको उत्तरमा फैलिएको कमलो र नयाँ पहाडी शृङ्खला हो।",
+   "unit": "धरातल",
+   "set": "geography-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "geography",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/geography/geography-of-nepal-questions-set-1"
+  },
+  {
+   "id": "geography-of-nepal-questions-set-1-6",
+   "question": "सात सहायक नदी मिलेर बनेकाले कुन नदीलाई सप्तकोशी भनिन्छ?",
+   "options": [
+    "गण्डकी",
+    "कर्णाली",
+    "कोशी",
+    "बागमती"
+   ],
+   "answer_index": 2,
+   "answer": "कोशी",
+   "explanation": "तमोर, अरुण, दूधकोशी, सुनकोशी, इन्द्रावती, तामाकोशी र लिखु मिलेर बनेकाले कोशीलाई सप्तकोशी भनिन्छ।",
+   "unit": "नदी",
+   "set": "geography-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "geography",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/geography/geography-of-nepal-questions-set-1"
+  },
+  {
+   "id": "geography-of-nepal-questions-set-1-7",
+   "question": "विश्वको तेस्रो अग्लो हिमाल कञ्चनजङ्घा नेपालको कुन प्रदेशमा पर्छ?",
+   "options": [
+    "बागमती",
+    "कोशी",
+    "गण्डकी",
+    "कर्णाली"
+   ],
+   "answer_index": 1,
+   "answer": "कोशी",
+   "explanation": "कञ्चनजङ्घा ताप्लेजुङ जिल्ला, कोशी प्रदेशमा पर्छ।",
+   "unit": "हिमाल",
+   "set": "geography-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "geography",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/geography/geography-of-nepal-questions-set-1"
+  },
+  {
+   "id": "geography-of-nepal-questions-set-1-8",
+   "question": "क्षेत्रफलका हिसाबले नेपालको सबैभन्दा ठूलो जिल्ला कुन हो?",
+   "options": [
+    "हुम्ला",
+    "डोल्पा",
+    "मुगु",
+    "ताप्लेजुङ"
+   ],
+   "answer_index": 1,
+   "answer": "डोल्पा",
+   "explanation": "डोल्पा क्षेत्रफलमा सबैभन्दा ठूलो र भक्तपुर सबैभन्दा सानो जिल्ला हो।",
+   "unit": "प्रशासनिक विभाजन",
+   "set": "geography-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "geography",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/geography/geography-of-nepal-questions-set-1"
+  },
+  {
+   "id": "geography-of-nepal-questions-set-1-9",
+   "question": "सबैभन्दा धेरै जिल्ला भएको प्रदेश कुन हो?",
+   "options": [
+    "बागमती",
+    "लुम्बिनी",
+    "कोशी",
+    "सुदूरपश्चिम"
+   ],
+   "answer_index": 2,
+   "answer": "कोशी",
+   "explanation": "कोशी प्रदेशमा १४ जिल्ला छन्; बागमतीमा १३ र लुम्बिनीमा १२।",
+   "unit": "प्रशासनिक विभाजन",
+   "set": "geography-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "geography",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/geography/geography-of-nepal-questions-set-1"
+  },
+  {
+   "id": "geography-of-nepal-questions-set-1-10",
+   "question": "सबैभन्दा कम जिल्ला भएको प्रदेश कुन हो?",
+   "options": [
+    "मधेश",
+    "कर्णाली",
+    "सुदूरपश्चिम",
+    "गण्डकी"
+   ],
+   "answer_index": 0,
+   "answer": "मधेश",
+   "explanation": "मधेश प्रदेशमा ८ जिल्ला छन्; सुदूरपश्चिममा ९ र कर्णालीमा १०।",
+   "unit": "प्रशासनिक विभाजन",
+   "set": "geography-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "geography",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/geography/geography-of-nepal-questions-set-1"
+  },
+  {
+   "id": "geography-of-nepal-questions-set-1-11",
+   "question": "क्षेत्रफलका हिसाबले सबैभन्दा ठूलो प्रदेश कुन हो?",
+   "options": [
+    "कोशी",
+    "बागमती",
+    "कर्णाली",
+    "सुदूरपश्चिम"
+   ],
+   "answer_index": 2,
+   "answer": "कर्णाली",
+   "explanation": "कर्णाली प्रदेश क्षेत्रफलमा सबैभन्दा ठूलो प्रदेश हो।",
+   "unit": "प्रशासनिक विभाजन",
+   "set": "geography-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "geography",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/geography/geography-of-nepal-questions-set-1"
+  },
+  {
+   "id": "geography-of-nepal-questions-set-1-12",
+   "question": "नेपालको पहिलो रामसार क्षेत्र कुन हो?",
+   "options": [
+    "रारा ताल",
+    "कोशी टप्पु वन्यजन्तु आरक्ष",
+    "घोडाघोडी ताल",
+    "बीसहजारी ताल"
+   ],
+   "answer_index": 1,
+   "answer": "कोशी टप्पु वन्यजन्तु आरक्ष",
+   "explanation": "कोशी टप्पु वन्यजन्तु आरक्ष सन् १९८७ मा नेपालको पहिलो रामसार (अन्तर्राष्ट्रिय महत्त्वको सिमसार) क्षेत्र बनेको हो।",
+   "unit": "प्राकृतिक सम्पदा",
+   "set": "geography-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "geography",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/geography/geography-of-nepal-questions-set-1"
+  },
+  {
+   "id": "history-of-nepal-questions-set-1-1",
+   "question": "गौतम बुद्धको जन्मस्थल कुन हो?",
+   "options": [
+    "कपिलवस्तुको तिलौराकोट",
+    "लुम्बिनी",
+    "देवदह",
+    "रामग्राम"
+   ],
+   "answer_index": 1,
+   "answer": "लुम्बिनी",
+   "explanation": "गौतम बुद्ध लुम्बिनीमा जन्मेका हुन्; लुम्बिनी युनेस्कोको विश्व सम्पदा सूचीमा छ।",
+   "unit": "प्राचीन इतिहास",
+   "set": "history-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "history",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/history/history-of-nepal-questions-set-1"
+  },
+  {
+   "id": "history-of-nepal-questions-set-1-2",
+   "question": "कैलाशकूट भवन बनाउने लिच्छवि राजा को हुन्?",
+   "options": [
+    "मानदेव",
+    "अंशुवर्मा",
+    "शिवदेव",
+    "जयदेव"
+   ],
+   "answer_index": 1,
+   "answer": "अंशुवर्मा",
+   "explanation": "अंशुवर्माले कैलाशकूट भवन बनाएका थिए; यसको चर्चा चिनियाँ यात्रीको विवरणमा पाइन्छ।",
+   "unit": "लिच्छविकाल",
+   "set": "history-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "history",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/history/history-of-nepal-questions-set-1"
+  },
+  {
+   "id": "history-of-nepal-questions-set-1-3",
+   "question": "मल्लकालमा सामाजिक सुधार गरी जातिगत विभाजन व्यवस्थित गर्ने राजा को हुन्?",
+   "options": [
+    "यक्ष मल्ल",
+    "जयस्थिति मल्ल",
+    "प्रताप मल्ल",
+    "सिद्धिनरसिंह मल्ल"
+   ],
+   "answer_index": 1,
+   "answer": "जयस्थिति मल्ल",
+   "explanation": "जयस्थिति मल्ललाई मल्लकालमा समाजलाई पेसाका आधारमा व्यवस्थित गर्ने सुधारसँग जोडिन्छ।",
+   "unit": "मध्यकाल",
+   "set": "history-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "history",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/history/history-of-nepal-questions-set-1"
+  },
+  {
+   "id": "history-of-nepal-questions-set-1-4",
+   "question": "काठमाडौंको धरहरा कसले बनाएका थिए?",
+   "options": [
+    "जङ्गबहादुर राणा",
+    "भीमसेन थापा",
+    "चन्द्रशमशेर",
+    "पृथ्वीनारायण शाह"
+   ],
+   "answer_index": 1,
+   "answer": "भीमसेन थापा",
+   "explanation": "मुख्तियार भीमसेन थापाले धरहरा बनाएका थिए।",
+   "unit": "आधुनिक इतिहास",
+   "set": "history-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "history",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/history/history-of-nepal-questions-set-1"
+  },
+  {
+   "id": "history-of-nepal-questions-set-1-5",
+   "question": "सुगौली सन्धि कुन युद्धपछि भएको थियो?",
+   "options": [
+    "नेपाल-तिब्बत युद्ध",
+    "नेपाल-अङ्ग्रेज युद्ध",
+    "नेपाल-चीन युद्ध",
+    "एकीकरण अभियान"
+   ],
+   "answer_index": 1,
+   "answer": "नेपाल-अङ्ग्रेज युद्ध",
+   "explanation": "नेपाल-अङ्ग्रेज युद्ध (सन् १८१४–१६) पछि सुगौली सन्धि भई नेपालले ठूलो भूभाग गुमाएको थियो।",
+   "unit": "आधुनिक इतिहास",
+   "set": "history-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "history",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/history/history-of-nepal-questions-set-1"
+  },
+  {
+   "id": "history-of-nepal-questions-set-1-6",
+   "question": "कोत पर्व कुन वर्ष भएको थियो?",
+   "options": [
+    "वि.सं. १८६३",
+    "वि.सं. १९०३",
+    "वि.सं. १९४२",
+    "वि.सं. २००७"
+   ],
+   "answer_index": 1,
+   "answer": "वि.सं. १९०३",
+   "explanation": "वि.सं. १९०३ असोजमा भएको कोत पर्वपछि जङ्गबहादुर राणाको उदय भयो।",
+   "unit": "राणा शासन",
+   "set": "history-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "history",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/history/history-of-nepal-questions-set-1"
+  },
+  {
+   "id": "history-of-nepal-questions-set-1-7",
+   "question": "नेपालको पहिलो लिखित संविधान कुन हो?",
+   "options": [
+    "नेपाल अन्तरिम शासन विधान, २००७",
+    "नेपाल सरकार वैधानिक कानून, २००४",
+    "नेपाल अधिराज्यको संविधान, २०१५",
+    "नेपालको संविधान, २०१९"
+   ],
+   "answer_index": 1,
+   "answer": "नेपाल सरकार वैधानिक कानून, २००४",
+   "explanation": "श्री ३ पद्मशमशेरले जारी गरेको नेपाल सरकार वैधानिक कानून, २००४ लाई पहिलो लिखित संविधान मानिन्छ।",
+   "unit": "आधुनिक इतिहास",
+   "set": "history-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "history",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/history/history-of-nepal-questions-set-1"
+  },
+  {
+   "id": "history-of-nepal-questions-set-1-8",
+   "question": "वि.सं. २०१५ को आम निर्वाचनपछि बनेका पहिलो जननिर्वाचित प्रधानमन्त्री को हुन्?",
+   "options": [
+    "मातृकाप्रसाद कोइराला",
+    "बी.पी. कोइराला",
+    "टंकप्रसाद आचार्य",
+    "कीर्तिनिधि बिष्ट"
+   ],
+   "answer_index": 1,
+   "answer": "बी.पी. कोइराला",
+   "explanation": "२०१५ को निर्वाचनपछि विश्वेश्वरप्रसाद (बी.पी.) कोइराला पहिलो जननिर्वाचित प्रधानमन्त्री बने।",
+   "unit": "आधुनिक इतिहास",
+   "set": "history-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "history",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/history/history-of-nepal-questions-set-1"
+  },
+  {
+   "id": "history-of-nepal-questions-set-1-9",
+   "question": "पञ्चायती व्यवस्था सुरु भएको दिन कुन हो?",
+   "options": [
+    "२०१७ पुस १",
+    "२०१९ पुस १",
+    "२०४६ चैत २६",
+    "२०१५ फागुन १"
+   ],
+   "answer_index": 0,
+   "answer": "२०१७ पुस १",
+   "explanation": "राजा महेन्द्रले वि.सं. २०१७ पुस १ मा संसद विघटन गरी पञ्चायती व्यवस्थाको बाटो खोलेका थिए।",
+   "unit": "आधुनिक इतिहास",
+   "set": "history-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "history",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/history/history-of-nepal-questions-set-1"
+  },
+  {
+   "id": "history-of-nepal-questions-set-1-10",
+   "question": "बहुदलीय व्यवस्था पुनर्स्थापना भएको जनआन्दोलन कुन वर्षको हो?",
+   "options": [
+    "२०३६",
+    "२०४६",
+    "२०६२/६३",
+    "२०७२"
+   ],
+   "answer_index": 1,
+   "answer": "२०४६",
+   "explanation": "२०४६ सालको जनआन्दोलनपछि चैत २६ मा बहुदलीय व्यवस्था पुनर्स्थापना भएको थियो।",
+   "unit": "आधुनिक इतिहास",
+   "set": "history-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "history",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/history/history-of-nepal-questions-set-1"
+  },
+  {
+   "id": "history-of-nepal-questions-set-1-11",
+   "question": "पहिलो संविधानसभाको निर्वाचन कहिले भएको थियो?",
+   "options": [
+    "२०६३ वैशाख ११",
+    "२०६४ चैत २८",
+    "२०६५ जेठ १५",
+    "२०७० मंसिर ४"
+   ],
+   "answer_index": 1,
+   "answer": "२०६४ चैत २८",
+   "explanation": "पहिलो संविधानसभाको निर्वाचन वि.सं. २०६४ चैत २८ मा भएको थियो; दोस्रो संविधानसभाको निर्वाचन २०७० मंसिर ४ मा।",
+   "unit": "आधुनिक इतिहास",
+   "set": "history-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "history",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/history/history-of-nepal-questions-set-1"
+  },
+  {
+   "id": "history-of-nepal-questions-set-1-12",
+   "question": "चीनमा श्वेत चैत्य बनाउने नेपाली कलाकार को हुन्?",
+   "options": [
+    "अरनिको",
+    "भृकुटी",
+    "कालीदास",
+    "भानुभक्त"
+   ],
+   "answer_index": 0,
+   "answer": "अरनिको",
+   "explanation": "अरनिको कुब्लाई खानको दरबारमा पुगेका थिए र बेइजिङको श्वेत चैत्य उनको प्रसिद्ध कृति मानिन्छ।",
+   "unit": "सांस्कृतिक इतिहास",
+   "set": "history-of-nepal-questions-set-1",
+   "exam": "loksewa",
+   "subject": "history",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/history/history-of-nepal-questions-set-1"
+  },
+  {
+   "id": "loksewa-interview-questions-set-1-1",
+   "question": "लोक सेवा आयोगको स्थापना कहिले भएको हो?",
+   "options": [
+    "वि.सं. २००७ फागुन ७",
+    "वि.सं. २००८ असार १",
+    "वि.सं. २०१३ भदौ २२",
+    "वि.सं. २०१५ जेठ १"
+   ],
+   "answer_index": 1,
+   "answer": "वि.सं. २००८ असार १",
+   "explanation": "लोक सेवा आयोग वि.सं. २००८ असार १ मा स्थापना भएको हो; यसै दिन आयोगको स्थापना दिवस मनाइन्छ।",
+   "unit": "लोक सेवा आयोग",
+   "set": "loksewa-interview-questions-set-1",
+   "exam": "loksewa",
+   "subject": "interview",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/interview/loksewa-interview-questions-set-1"
+  },
+  {
+   "id": "loksewa-interview-questions-set-1-2",
+   "question": "संविधानअनुसार लोक सेवा आयोगमा अध्यक्षसहित कति सदस्य हुन्छन्?",
+   "options": [
+    "३",
+    "५",
+    "७",
+    "९"
+   ],
+   "answer_index": 1,
+   "answer": "५",
+   "explanation": "धारा २४२ अनुसार आयोगमा अध्यक्ष र अन्य चार सदस्य गरी पाँच जना हुन्छन्।",
+   "unit": "लोक सेवा आयोग",
+   "set": "loksewa-interview-questions-set-1",
+   "exam": "loksewa",
+   "subject": "interview",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/interview/loksewa-interview-questions-set-1"
+  },
+  {
+   "id": "loksewa-interview-questions-set-1-3",
+   "question": "लोक सेवा आयोगका अध्यक्ष र सदस्यको पदावधि कति वर्षको हुन्छ?",
+   "options": [
+    "४ वर्ष",
+    "५ वर्ष",
+    "६ वर्ष",
+    "७ वर्ष"
+   ],
+   "answer_index": 2,
+   "answer": "६ वर्ष",
+   "explanation": "धारा २४२ अनुसार नियुक्तिको मितिले छ वर्ष।",
+   "unit": "लोक सेवा आयोग",
+   "set": "loksewa-interview-questions-set-1",
+   "exam": "loksewa",
+   "subject": "interview",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/interview/loksewa-interview-questions-set-1"
+  },
+  {
+   "id": "loksewa-interview-questions-set-1-4",
+   "question": "निजामती सेवा दिवस कहिले मनाइन्छ?",
+   "options": [
+    "असार १",
+    "भदौ २२",
+    "असोज ३",
+    "फागुन ७"
+   ],
+   "answer_index": 1,
+   "answer": "भदौ २२",
+   "explanation": "निजामती सेवा दिवस हरेक वर्ष भदौ २२ मा मनाइन्छ।",
+   "unit": "निजामती सेवा",
+   "set": "loksewa-interview-questions-set-1",
+   "exam": "loksewa",
+   "subject": "interview",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/interview/loksewa-interview-questions-set-1"
+  },
+  {
+   "id": "loksewa-interview-questions-set-1-5",
+   "question": "खरिदार पद कुन श्रेणीको हो?",
+   "options": [
+    "राजपत्राङ्कित तृतीय",
+    "राजपत्र अनङ्कित प्रथम",
+    "राजपत्र अनङ्कित द्वितीय",
+    "राजपत्र अनङ्कित तृतीय"
+   ],
+   "answer_index": 2,
+   "answer": "राजपत्र अनङ्कित द्वितीय",
+   "explanation": "खरिदार राजपत्र अनङ्कित द्वितीय श्रेणी र नायब सुब्बा राजपत्र अनङ्कित प्रथम श्रेणीको पद हो।",
+   "unit": "निजामती सेवा",
+   "set": "loksewa-interview-questions-set-1",
+   "exam": "loksewa",
+   "subject": "interview",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/interview/loksewa-interview-questions-set-1"
+  },
+  {
+   "id": "loksewa-interview-questions-set-1-6",
+   "question": "खरिदार र नायब सुब्बाको अन्तर्वार्ता कति अङ्कको हुन्छ?",
+   "options": [
+    "२०",
+    "३०",
+    "४०",
+    "५०"
+   ],
+   "answer_index": 1,
+   "answer": "३०",
+   "explanation": "पाठ्यक्रमअनुसार अन्तिम चरणमा अन्तर्वार्ता ३० अङ्क र कम्प्युटर सीप परीक्षण १० अङ्कको हुन्छ।",
+   "unit": "अन्तर्वार्ता",
+   "set": "loksewa-interview-questions-set-1",
+   "exam": "loksewa",
+   "subject": "interview",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/interview/loksewa-interview-questions-set-1"
+  },
+  {
+   "id": "loksewa-interview-questions-set-1-7",
+   "question": "सूचनाको हक सम्बन्धी ऐन कहिले जारी भएको हो?",
+   "options": [
+    "२०५९",
+    "२०६२",
+    "२०६४",
+    "२०७६"
+   ],
+   "answer_index": 2,
+   "answer": "२०६४",
+   "explanation": "सूचनाको हक सम्बन्धी ऐन, २०६४ ले नागरिकलाई सार्वजनिक निकायबाट सूचना माग्ने अधिकार दिन्छ।",
+   "unit": "सुशासन",
+   "set": "loksewa-interview-questions-set-1",
+   "exam": "loksewa",
+   "subject": "interview",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/interview/loksewa-interview-questions-set-1"
+  },
+  {
+   "id": "loksewa-interview-questions-set-1-8",
+   "question": "सुशासन (व्यवस्थापन तथा सञ्चालन) ऐन कुन वर्षको हो?",
+   "options": [
+    "२०५९",
+    "२०६४",
+    "२०७२",
+    "२०७७"
+   ],
+   "answer_index": 1,
+   "answer": "२०६४",
+   "explanation": "सुशासन (व्यवस्थापन तथा सञ्चालन) ऐन, २०६४ ले नागरिक बडापत्र, गुनासो सुनुवाइजस्ता व्यवस्था गरेको छ।",
+   "unit": "सुशासन",
+   "set": "loksewa-interview-questions-set-1",
+   "exam": "loksewa",
+   "subject": "interview",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/interview/loksewa-interview-questions-set-1"
+  },
+  {
+   "id": "loksewa-interview-questions-set-1-9",
+   "question": "भ्रष्टाचार निवारण ऐन कुन वर्षको हो?",
+   "options": [
+    "२०४८",
+    "२०५९",
+    "२०६४",
+    "२०७३"
+   ],
+   "answer_index": 1,
+   "answer": "२०५९",
+   "explanation": "भ्रष्टाचार निवारण ऐन, २०५९ खरिदारको तृतीय पत्रको पाठ्यक्रममा पनि छ।",
+   "unit": "सुशासन",
+   "set": "loksewa-interview-questions-set-1",
+   "exam": "loksewa",
+   "subject": "interview",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/interview/loksewa-interview-questions-set-1"
+  },
+  {
+   "id": "loksewa-interview-questions-set-1-10",
+   "question": "सार्वजनिक बडापत्रमा मुख्य रूपमा के राखिन्छ?",
+   "options": [
+    "कर्मचारीको तलब",
+    "सेवाको किसिम, लाग्ने शुल्क, समय र जिम्मेवार अधिकारी",
+    "कार्यालयको इतिहास",
+    "प्रमुखको जीवनी"
+   ],
+   "answer_index": 1,
+   "answer": "सेवाको किसिम, लाग्ने शुल्क, समय र जिम्मेवार अधिकारी",
+   "explanation": "सार्वजनिक बडापत्रले सेवाग्राहीलाई कुन सेवा कति शुल्क र समयमा कसले दिन्छ भन्ने जानकारी दिन्छ।",
+   "unit": "सार्वजनिक सेवा",
+   "set": "loksewa-interview-questions-set-1",
+   "exam": "loksewa",
+   "subject": "interview",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/interview/loksewa-interview-questions-set-1"
+  },
+  {
+   "id": "loksewa-interview-questions-set-1-11",
+   "question": "अन्तर्वार्तामा आफूलाई थाहा नभएको प्रश्न सोधियो भने के गर्नु उचित हुन्छ?",
+   "options": [
+    "अनुमानमा जे पायो त्यही भन्ने",
+    "नम्रतापूर्वक थाहा नभएको स्वीकार्ने",
+    "प्रश्न नै नसुनेजस्तो गर्ने",
+    "अर्को विषयमा कुरा मोड्ने"
+   ],
+   "answer_index": 1,
+   "answer": "नम्रतापूर्वक थाहा नभएको स्वीकार्ने",
+   "explanation": "इमानदारी अन्तर्वार्ताको मुख्य गुण हो; थाहा नभएको स्वीकार्दै सिक्ने इच्छा देखाउनु राम्रो मानिन्छ।",
+   "unit": "अन्तर्वार्ता",
+   "set": "loksewa-interview-questions-set-1",
+   "exam": "loksewa",
+   "subject": "interview",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/interview/loksewa-interview-questions-set-1"
+  },
+  {
+   "id": "loksewa-interview-questions-set-1-12",
+   "question": "काउन्टरमा रिसाएर आएका सेवाग्राहीसँग पहिला के गर्नुपर्छ?",
+   "options": [
+    "उनलाई अर्को दिन आउन भन्ने",
+    "शान्त भएर उनको कुरा पूरा सुन्ने",
+    "हाकिमलाई बोलाउने",
+    "नियम देखाएर फर्काउने"
+   ],
+   "answer_index": 1,
+   "answer": "शान्त भएर उनको कुरा पूरा सुन्ने",
+   "explanation": "पहिला धैर्यपूर्वक समस्या सुन्ने, त्यसपछि नियमअनुसार समाधान वा सही ठाउँ देखाउने; यो गुनासो व्यवस्थापनको आधार हो।",
+   "unit": "सार्वजनिक सेवा",
+   "set": "loksewa-interview-questions-set-1",
+   "exam": "loksewa",
+   "subject": "interview",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/interview/loksewa-interview-questions-set-1"
+  },
+  {
+   "id": "bost-model-questions-set-1-1",
+   "question": "तलका मध्ये कुन जोडा ठ्याक्कै उस्तै छ?",
+   "options": [
+    "4758-2196 / 4758-2169",
+    "KTM-0451-A / KTM-0451-A",
+    "रामबहादुर / रामबहदुर",
+    "98410 / 98401"
+   ],
+   "answer_index": 1,
+   "answer": "KTM-0451-A / KTM-0451-A",
+   "explanation": "अरू जोडामा अङ्क वा अक्षरको क्रम फरक छ; (ख) मा दुवै भाग अक्षरशः उस्तै छन्।",
+   "unit": "रुजु गर्ने",
+   "set": "bost-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "bost",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/bost/bost-model-questions-set-1"
+  },
+  {
+   "id": "bost-model-questions-set-1-2",
+   "question": "यो पङ्क्तिमा ७ कति पटक आएको छ? 7 3 7 1 9 7 5 7 2 7",
+   "options": [
+    "४",
+    "५",
+    "६",
+    "३"
+   ],
+   "answer_index": 1,
+   "answer": "५",
+   "explanation": "७ पहिलो, तेस्रो, छैटौँ, आठौँ र दशौँ स्थानमा छ, जम्मा ५ पटक।",
+   "unit": "रुजु गर्ने",
+   "set": "bost-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "bost",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/bost/bost-model-questions-set-1"
+  },
+  {
+   "id": "bost-model-questions-set-1-3",
+   "question": "क्रम पूरा गर्नुहोस्: २, ६, १२, २०, ३०, ?",
+   "options": [
+    "४०",
+    "४२",
+    "४४",
+    "३६"
+   ],
+   "answer_index": 1,
+   "answer": "४२",
+   "explanation": "फरक क्रमशः ४, ६, ८, १० छ; अर्को फरक १२ हुँदा ३० + १२ = ४२।",
+   "unit": "क्रम पूरा गर्ने",
+   "set": "bost-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "bost",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/bost/bost-model-questions-set-1"
+  },
+  {
+   "id": "bost-model-questions-set-1-4",
+   "question": "क्रम पूरा गर्नुहोस्: A, C, F, J, O, ?",
+   "options": [
+    "T",
+    "U",
+    "V",
+    "W"
+   ],
+   "answer_index": 1,
+   "answer": "U",
+   "explanation": "अक्षरबीचको फरक +२, +३, +४, +५ छ; अर्को +६ हुँदा O (१५) पछि U (२१)।",
+   "unit": "क्रम पूरा गर्ने",
+   "set": "bost-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "bost",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/bost/bost-model-questions-set-1"
+  },
+  {
+   "id": "bost-model-questions-set-1-5",
+   "question": "नमिल्ने छुट्याउनुहोस्:",
+   "options": [
+    "कलम",
+    "पेन्सिल",
+    "कापी",
+    "मार्कर"
+   ],
+   "answer_index": 2,
+   "answer": "कापी",
+   "explanation": "कलम, पेन्सिल र मार्कर लेख्ने साधन हुन्; कापी लेखिने वस्तु हो।",
+   "unit": "वर्गीकरण",
+   "set": "bost-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "bost",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/bost/bost-model-questions-set-1"
+  },
+  {
+   "id": "bost-model-questions-set-1-6",
+   "question": "नमिल्ने संख्या छुट्याउनुहोस्:",
+   "options": [
+    "१६",
+    "३६",
+    "४९",
+    "६३"
+   ],
+   "answer_index": 3,
+   "answer": "६३",
+   "explanation": "१६, ३६ र ४९ पूर्ण वर्ग संख्या हुन् (४², ६², ७²); ६३ पूर्ण वर्ग होइन।",
+   "unit": "वर्गीकरण",
+   "set": "bost-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "bost",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/bost/bost-model-questions-set-1"
+  },
+  {
+   "id": "bost-model-questions-set-1-7",
+   "question": "डाक्टर : अस्पताल :: शिक्षक : ?",
+   "options": [
+    "पुस्तक",
+    "विद्यालय",
+    "विद्यार्थी",
+    "कलम"
+   ],
+   "answer_index": 1,
+   "answer": "विद्यालय",
+   "explanation": "डाक्टर अस्पतालमा काम गर्छन्, त्यसैगरी शिक्षक विद्यालयमा।",
+   "unit": "सम्बन्ध परीक्षण",
+   "set": "bost-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "bost",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/bost/bost-model-questions-set-1"
+  },
+  {
+   "id": "bost-model-questions-set-1-8",
+   "question": "यी थरहरू वर्णमालाक्रम (A–Z) मा मिलाउँदा तेस्रो स्थानमा कुन पर्छ? Sharma, Shah, Shrestha, Sapkota",
+   "options": [
+    "Shah",
+    "Sharma",
+    "Shrestha",
+    "Sapkota"
+   ],
+   "answer_index": 1,
+   "answer": "Sharma",
+   "explanation": "क्रम: Sapkota, Shah, Sharma, Shrestha। Sha- पछि h र r तुलना गर्दा h पहिले आउँछ, त्यसैले Shah पछि Sharma।",
+   "unit": "फाइलिङ अभिरुचि",
+   "set": "bost-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "bost",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/bost/bost-model-questions-set-1"
+  },
+  {
+   "id": "bost-model-questions-set-1-9",
+   "question": "निर्देशन: PLANET शब्दको दोस्रो र चौथो अक्षर साटेर लेख्नुहोस्।",
+   "options": [
+    "PNALET",
+    "PLANET",
+    "PANLET",
+    "PNLAET"
+   ],
+   "answer_index": 0,
+   "answer": "PNALET",
+   "explanation": "दोस्रो अक्षर L र चौथो अक्षर N साट्दा P N A L E T, अर्थात् PNALET।",
+   "unit": "निर्देशन अनुसरण",
+   "set": "bost-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "bost",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/bost/bost-model-questions-set-1"
+  },
+  {
+   "id": "bost-model-questions-set-1-10",
+   "question": "एउटा कार्यालयमा ४८ कर्मचारी छन्, जसमध्ये २५ प्रतिशत महिला छन्। पुरुष कर्मचारी कति छन्?",
+   "options": [
+    "१२",
+    "२४",
+    "३६",
+    "३८"
+   ],
+   "answer_index": 2,
+   "answer": "३६",
+   "explanation": "४८ को २५ प्रतिशत = १२ महिला; पुरुष = ४८ − १२ = ३६।",
+   "unit": "संख्यात्मक चातुर्यता",
+   "set": "bost-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "bost",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/bost/bost-model-questions-set-1"
+  },
+  {
+   "id": "bost-model-questions-set-1-11",
+   "question": "यदि CAT लाई DBU लेखिन्छ भने DOG लाई कसरी लेखिन्छ?",
+   "options": [
+    "EPH",
+    "CNF",
+    "EOH",
+    "FPI"
+   ],
+   "answer_index": 0,
+   "answer": "EPH",
+   "explanation": "हरेक अक्षरलाई वर्णमालामा एक अक्षर अगाडि सारिएको छ: D→E, O→P, G→H।",
+   "unit": "कोडिङ र भिडान",
+   "set": "bost-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "bost",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/bost/bost-model-questions-set-1"
+  },
+  {
+   "id": "bost-model-questions-set-1-12",
+   "question": "कथन: सबै फाइल कागज हुन्। सबै कागज सेता छन्। निष्कर्ष: (१) सबै फाइल सेता छन्। (२) सबै सेता वस्तु फाइल हुन्। कुन निष्कर्ष ठीक छ?",
+   "options": [
+    "(१) मात्र",
+    "(२) मात्र",
+    "दुवै",
+    "कुनै पनि होइन"
+   ],
+   "answer_index": 0,
+   "answer": "(१) मात्र",
+   "explanation": "फाइल कागजभित्र र कागज सेताभित्र पर्ने भएकाले सबै फाइल सेता हुन्; तर सबै सेता वस्तु फाइल हुन् भन्ने कथनबाट निस्कँदैन।",
+   "unit": "विश्लेषणात्मक तार्किकता",
+   "set": "bost-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "bost",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/bost/bost-model-questions-set-1"
+  },
+  {
+   "id": "bost-model-questions-set-1-13",
+   "question": "एक जना उत्तरतर्फ ५ किमि हिँडे, दायाँ मोडिएर ३ किमि हिँडे, अनि फेरि दायाँ मोडिएर ५ किमि हिँडे। अब उनी सुरुको ठाउँबाट कति टाढा र कुन दिशामा छन्?",
+   "options": [
+    "३ किमि पश्चिम",
+    "३ किमि पूर्व",
+    "५ किमि उत्तर",
+    "८ किमि पूर्व"
+   ],
+   "answer_index": 1,
+   "answer": "३ किमि पूर्व",
+   "explanation": "उत्तर ५ र दक्षिण ५ ले एकअर्कालाई काट्छन्; बाँकी पहिलो दायाँ मोडपछिको ३ किमि पूर्व।",
+   "unit": "दिशा र दूरी",
+   "set": "bost-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "bost",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/bost/bost-model-questions-set-1"
+  },
+  {
+   "id": "bost-model-questions-set-1-14",
+   "question": "बिहान सूर्योदयतिर फर्केर उभिएको व्यक्तिको बायाँपट्टि कुन दिशा पर्छ?",
+   "options": [
+    "दक्षिण",
+    "पश्चिम",
+    "उत्तर",
+    "पूर्व"
+   ],
+   "answer_index": 2,
+   "answer": "उत्तर",
+   "explanation": "सूर्य पूर्वमा उदाउँछ; पूर्वतर्फ फर्कंदा बायाँ उत्तर र दायाँ दक्षिण पर्छ।",
+   "unit": "दिशा र दूरी",
+   "set": "bost-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "bost",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/bost/bost-model-questions-set-1"
+  },
+  {
+   "id": "kharidar-gk-model-questions-set-1-1",
+   "question": "नेपाल र चीनले सन् २०२० मा संयुक्त रूपमा घोषणा गरेको सगरमाथाको उचाइ कति हो?",
+   "options": [
+    "८,८४८ मिटर",
+    "८,८४८.८६ मिटर",
+    "८,८५० मिटर",
+    "८,८४४.४३ मिटर"
+   ],
+   "answer_index": 1,
+   "answer": "८,८४८.८६ मिटर",
+   "explanation": "वि.सं. २०७७ मंसिर २३ (८ डिसेम्बर २०२०) मा दुवै देशले सगरमाथाको नयाँ उचाइ ८,८४८.८६ मिटर घोषणा गरेका थिए।",
+   "unit": "सौर्यमण्डल र भूगोल",
+   "set": "kharidar-gk-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/gk/kharidar-gk-model-questions-set-1"
+  },
+  {
+   "id": "kharidar-gk-model-questions-set-1-2",
+   "question": "सौर्यमण्डलको सबैभन्दा ठूलो ग्रह कुन हो?",
+   "options": [
+    "शनि",
+    "पृथ्वी",
+    "बृहस्पति",
+    "वरुण"
+   ],
+   "answer_index": 2,
+   "answer": "बृहस्पति",
+   "explanation": "बृहस्पति (Jupiter) सौर्यमण्डलको सबैभन्दा ठूलो ग्रह हो।",
+   "unit": "सौर्यमण्डल र भूगोल",
+   "set": "kharidar-gk-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/gk/kharidar-gk-model-questions-set-1"
+  },
+  {
+   "id": "kharidar-gk-model-questions-set-1-3",
+   "question": "नेपालको सबैभन्दा लामो नदी कुन हो?",
+   "options": [
+    "कोशी",
+    "कर्णाली",
+    "गण्डकी",
+    "महाकाली"
+   ],
+   "answer_index": 1,
+   "answer": "कर्णाली",
+   "explanation": "नेपालभित्र बग्ने सबैभन्दा लामो नदी कर्णाली हो।",
+   "unit": "सौर्यमण्डल र भूगोल",
+   "set": "kharidar-gk-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/gk/kharidar-gk-model-questions-set-1"
+  },
+  {
+   "id": "kharidar-gk-model-questions-set-1-4",
+   "question": "नेपालको सबैभन्दा ठूलो ताल कुन हो?",
+   "options": [
+    "फेवा",
+    "शे-फोक्सुण्डो",
+    "तिलिचो",
+    "रारा"
+   ],
+   "answer_index": 3,
+   "answer": "रारा",
+   "explanation": "रारा नेपालको सबैभन्दा ठूलो ताल हो; शे-फोक्सुण्डो सबैभन्दा गहिरो र तिलिचो उच्च स्थानको ताल भनेर चिनिन्छन्।",
+   "unit": "सौर्यमण्डल र भूगोल",
+   "set": "kharidar-gk-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/gk/kharidar-gk-model-questions-set-1"
+  },
+  {
+   "id": "kharidar-gk-model-questions-set-1-5",
+   "question": "पृथ्वीनारायण शाहले काठमाडौं विजय गरेको वर्ष कुन हो?",
+   "options": [
+    "वि.सं. १८०१",
+    "वि.सं. १८२५",
+    "वि.सं. १८२६",
+    "वि.सं. १८३१"
+   ],
+   "answer_index": 1,
+   "answer": "वि.सं. १८२५",
+   "explanation": "इन्द्रजात्राको दिन वि.सं. १८२५ (सन् १७६८) मा काठमाडौं विजय भएको थियो।",
+   "unit": "इतिहास",
+   "set": "kharidar-gk-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/gk/kharidar-gk-model-questions-set-1"
+  },
+  {
+   "id": "kharidar-gk-model-questions-set-1-6",
+   "question": "फ्रान्सको राज्यक्रान्ति कुन सन्मा सुरु भएको थियो?",
+   "options": [
+    "सन् १७७६",
+    "सन् १७८९",
+    "सन् १८१५",
+    "सन् १८४८"
+   ],
+   "answer_index": 1,
+   "answer": "सन् १७८९",
+   "explanation": "फ्रान्सेली राज्यक्रान्ति सन् १७८९ मा सुरु भएको थियो; सन् १७७६ अमेरिकी स्वतन्त्रताको घोषणाको वर्ष हो।",
+   "unit": "इतिहास",
+   "set": "kharidar-gk-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/gk/kharidar-gk-model-questions-set-1"
+  },
+  {
+   "id": "kharidar-gk-model-questions-set-1-7",
+   "question": "चाँगुनारायणको अभिलेख कुन लिच्छवि राजासँग सम्बन्धित छ?",
+   "options": [
+    "अंशुवर्मा",
+    "मानदेव",
+    "शिवदेव",
+    "नरेन्द्रदेव"
+   ],
+   "answer_index": 1,
+   "answer": "मानदेव",
+   "explanation": "चाँगुनारायणको स्तम्भ अभिलेख राजा मानदेवको हो र यसलाई मिति खुलेको नेपालको पुरानो अभिलेखमध्ये मानिन्छ।",
+   "unit": "इतिहास",
+   "set": "kharidar-gk-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/gk/kharidar-gk-model-questions-set-1"
+  },
+  {
+   "id": "kharidar-gk-model-questions-set-1-8",
+   "question": "नेपालमा प्रजातन्त्र स्थापना भएको दिन कुन हो?",
+   "options": [
+    "२००७ फागुन ७",
+    "२०१५ फागुन ७",
+    "२०४६ चैत २६",
+    "२०६३ वैशाख ११"
+   ],
+   "answer_index": 0,
+   "answer": "२००७ फागुन ७",
+   "explanation": "वि.सं. २००७ फागुन ७ मा प्रजातन्त्र स्थापना भएको घोषणा गरिएको थियो; यो दिन प्रजातन्त्र दिवसका रूपमा मनाइन्छ।",
+   "unit": "इतिहास",
+   "set": "kharidar-gk-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/gk/kharidar-gk-model-questions-set-1"
+  },
+  {
+   "id": "kharidar-gk-model-questions-set-1-9",
+   "question": "नेपालको संविधान जारी भएको मिति कुन हो?",
+   "options": [
+    "२०७२ असोज ३",
+    "२०७२ भदौ ३",
+    "२०७३ असोज ३",
+    "२०६५ जेठ १५"
+   ],
+   "answer_index": 0,
+   "answer": "२०७२ असोज ३",
+   "explanation": "नेपालको संविधान वि.सं. २०७२ असोज ३ मा जारी भएको हो; यो दिन संविधान दिवसका रूपमा मनाइन्छ।",
+   "unit": "सामाजिक, आर्थिक अवस्था र शासनपद्धति",
+   "set": "kharidar-gk-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/gk/kharidar-gk-model-questions-set-1"
+  },
+  {
+   "id": "kharidar-gk-model-questions-set-1-10",
+   "question": "नेपालमा कति वटा स्थानीय तह छन्?",
+   "options": [
+    "७",
+    "७७",
+    "४६०",
+    "७५३"
+   ],
+   "answer_index": 3,
+   "answer": "७५३",
+   "explanation": "नेपालमा ७ प्रदेश, ७७ जिल्ला र ७५३ स्थानीय तह (६ महानगरपालिका, ११ उपमहानगरपालिका, २७६ नगरपालिका र ४६० गाउँपालिका) छन्।",
+   "unit": "सामाजिक, आर्थिक अवस्था र शासनपद्धति",
+   "set": "kharidar-gk-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/gk/kharidar-gk-model-questions-set-1"
+  },
+  {
+   "id": "kharidar-gk-model-questions-set-1-11",
+   "question": "नेपाल राष्ट्र बैंकको स्थापना कहिले भएको हो?",
+   "options": [
+    "वि.सं. १९९४",
+    "वि.सं. २०१३",
+    "वि.सं. २०१५",
+    "वि.सं. २०२२"
+   ],
+   "answer_index": 1,
+   "answer": "वि.सं. २०१३",
+   "explanation": "नेपाल राष्ट्र बैंक वि.सं. २०१३ वैशाख १४ मा स्थापना भएको हो; वि.सं. १९९४ मा नेपाल बैंक लिमिटेड स्थापना भएको थियो।",
+   "unit": "सामाजिक, आर्थिक अवस्था र शासनपद्धति",
+   "set": "kharidar-gk-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/gk/kharidar-gk-model-questions-set-1"
+  },
+  {
+   "id": "kharidar-gk-model-questions-set-1-12",
+   "question": "भिटामिन सी को कमीले कुन रोग लाग्छ?",
+   "options": [
+    "रिकेट्स",
+    "स्कर्भी",
+    "रतन्धो",
+    "बेरिबेरी"
+   ],
+   "answer_index": 1,
+   "answer": "स्कर्भी",
+   "explanation": "भिटामिन सी को कमीले स्कर्भी, भिटामिन डी को कमीले रिकेट्स, भिटामिन ए को कमीले रतन्धो र भिटामिन बी१ को कमीले बेरिबेरी हुन्छ।",
+   "unit": "विज्ञान प्रविधि, जनस्वास्थ्य र वातावरण",
+   "set": "kharidar-gk-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/gk/kharidar-gk-model-questions-set-1"
+  },
+  {
+   "id": "kharidar-gk-model-questions-set-1-13",
+   "question": "ओजोन तहलाई क्षति पुर्‍याउने मुख्य रसायन कुन हो?",
+   "options": [
+    "अक्सिजन",
+    "नाइट्रोजन",
+    "क्लोरोफ्लोरोकार्बन (CFC)",
+    "हाइड्रोजन"
+   ],
+   "answer_index": 2,
+   "answer": "क्लोरोफ्लोरोकार्बन (CFC)",
+   "explanation": "फ्रिज, एयरकन्डिसनर र स्प्रेमा प्रयोग हुने क्लोरोफ्लोरोकार्बन (CFC) ले ओजोन तहलाई क्षति पुर्‍याउँछ।",
+   "unit": "विज्ञान प्रविधि, जनस्वास्थ्य र वातावरण",
+   "set": "kharidar-gk-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/gk/kharidar-gk-model-questions-set-1"
+  },
+  {
+   "id": "kharidar-gk-model-questions-set-1-14",
+   "question": "नेपाल संयुक्त राष्ट्रसंघको सदस्य कहिले बनेको हो?",
+   "options": [
+    "सन् १९४५",
+    "सन् १९५५",
+    "सन् १९६०",
+    "सन् १९७१"
+   ],
+   "answer_index": 1,
+   "answer": "सन् १९५५",
+   "explanation": "नेपाल सन् १९५५ डिसेम्बर १४ मा संयुक्त राष्ट्रसंघको सदस्य बनेको हो।",
+   "unit": "अन्तर्राष्ट्रिय सम्बन्ध र समसामयिक",
+   "set": "kharidar-gk-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/gk/kharidar-gk-model-questions-set-1"
+  },
+  {
+   "id": "kharidar-gk-model-questions-set-1-15",
+   "question": "सार्क (SAARC) को सचिवालय कहाँ छ?",
+   "options": [
+    "ढाका",
+    "नयाँ दिल्ली",
+    "काठमाडौं",
+    "कोलम्बो"
+   ],
+   "answer_index": 2,
+   "answer": "काठमाडौं",
+   "explanation": "सार्कको सचिवालय काठमाडौंमा छ; बिमस्टेकको सचिवालय ढाकामा छ।",
+   "unit": "अन्तर्राष्ट्रिय सम्बन्ध र समसामयिक",
+   "set": "kharidar-gk-model-questions-set-1",
+   "exam": "kharidar",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/gk/kharidar-gk-model-questions-set-1"
+  },
+  {
+   "id": "nayab-subba-gk-model-questions-set-1-1",
+   "question": "अन्तर्राष्ट्रिय तिथि रेखा मुख्यतया कुन देशान्तरको वरिपरि छ?",
+   "options": [
+    "०°",
+    "९०° पूर्व",
+    "१८०°",
+    "९०° पश्चिम"
+   ],
+   "answer_index": 2,
+   "answer": "१८०°",
+   "explanation": "अन्तर्राष्ट्रिय तिथि रेखा १८० डिग्री देशान्तरको वरिपरि छ; ०° देशान्तर ग्रीनविच (प्रमुख मध्यान्ह रेखा) हो।",
+   "unit": "ब्रह्माण्ड र विश्वको भूगोल",
+   "set": "nayab-subba-gk-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/gk/nayab-subba-gk-model-questions-set-1"
+  },
+  {
+   "id": "nayab-subba-gk-model-questions-set-1-2",
+   "question": "पृथ्वीले आफ्नो अक्षमा एक फन्को घुम्न करिब कति समय लगाउँछ?",
+   "options": [
+    "१२ घण्टा",
+    "२४ घण्टा",
+    "३० दिन",
+    "३६५ दिन"
+   ],
+   "answer_index": 1,
+   "answer": "२४ घण्टा",
+   "explanation": "पृथ्वीको दैनिक गति (परिक्रमा अक्षमा) ले करिब २४ घण्टामा दिन-रात हुन्छ; सूर्यको वरिपरि एक फन्को करिब ३६५ दिनमा लाग्छ।",
+   "unit": "ब्रह्माण्ड र विश्वको भूगोल",
+   "set": "nayab-subba-gk-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/gk/nayab-subba-gk-model-questions-set-1"
+  },
+  {
+   "id": "nayab-subba-gk-model-questions-set-1-3",
+   "question": "नेपालको सबैभन्दा गहिरो ताल कुन हो?",
+   "options": [
+    "रारा",
+    "शे-फोक्सुण्डो",
+    "बेगनास",
+    "तिलिचो"
+   ],
+   "answer_index": 1,
+   "answer": "शे-फोक्सुण्डो",
+   "explanation": "डोल्पाको शे-फोक्सुण्डो नेपालको सबैभन्दा गहिरो ताल हो; रारा सबैभन्दा ठूलो।",
+   "unit": "नेपालको भूगोल",
+   "set": "nayab-subba-gk-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/gk/nayab-subba-gk-model-questions-set-1"
+  },
+  {
+   "id": "nayab-subba-gk-model-questions-set-1-4",
+   "question": "नेपालको पहिलो राष्ट्रिय निकुञ्ज कुन हो?",
+   "options": [
+    "सगरमाथा",
+    "चितवन",
+    "लाङटाङ",
+    "बर्दिया"
+   ],
+   "answer_index": 1,
+   "answer": "चितवन",
+   "explanation": "चितवन राष्ट्रिय निकुञ्ज वि.सं. २०३० मा स्थापना भएको नेपालको पहिलो राष्ट्रिय निकुञ्ज हो।",
+   "unit": "नेपालको भूगोल",
+   "set": "nayab-subba-gk-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/gk/nayab-subba-gk-model-questions-set-1"
+  },
+  {
+   "id": "nayab-subba-gk-model-questions-set-1-5",
+   "question": "नेपालका प्राकृतिक विश्व सम्पदा कुन-कुन हुन्?",
+   "options": [
+    "लुम्बिनी र चितवन",
+    "सगरमाथा र चितवन राष्ट्रिय निकुञ्ज",
+    "सगरमाथा र लाङटाङ",
+    "काठमाडौं उपत्यका र लुम्बिनी"
+   ],
+   "answer_index": 1,
+   "answer": "सगरमाथा र चितवन राष्ट्रिय निकुञ्ज",
+   "explanation": "युनेस्कोको सूचीमा सगरमाथा र चितवन राष्ट्रिय निकुञ्ज प्राकृतिक, र काठमाडौं उपत्यका तथा लुम्बिनी सांस्कृतिक सम्पदा हुन्।",
+   "unit": "सामाजिक र सांस्कृतिक अवस्था",
+   "set": "nayab-subba-gk-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/gk/nayab-subba-gk-model-questions-set-1"
+  },
+  {
+   "id": "nayab-subba-gk-model-questions-set-1-6",
+   "question": "म्याग्नाकार्टा कुन देश र सन्सँग सम्बन्धित छ?",
+   "options": [
+    "फ्रान्स, सन् १७८९",
+    "इङ्ल्यान्ड, सन् १२१५",
+    "अमेरिका, सन् १७७६",
+    "रुस, सन् १९१७"
+   ],
+   "answer_index": 1,
+   "answer": "इङ्ल्यान्ड, सन् १२१५",
+   "explanation": "इङ्ल्यान्डका राजा जोनले सन् १२१५ मा स्वीकार गरेको म्याग्नाकार्टालाई अधिकारको प्रारम्भिक दस्तावेज मानिन्छ।",
+   "unit": "विश्वको इतिहास",
+   "set": "nayab-subba-gk-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/gk/nayab-subba-gk-model-questions-set-1"
+  },
+  {
+   "id": "nayab-subba-gk-model-questions-set-1-7",
+   "question": "नेपालमा राणा शासनको सुरुवातसँग जोडिएको घटना कुन हो?",
+   "options": [
+    "भण्डारखाल पर्व",
+    "कोत पर्व",
+    "अलौ पर्व",
+    "सुगौली सन्धि"
+   ],
+   "answer_index": 1,
+   "answer": "कोत पर्व",
+   "explanation": "वि.सं. १९०३ को कोत पर्वपछि जङ्गबहादुर राणा शक्तिशाली बने र राणा शासन सुरु भयो।",
+   "unit": "नेपालको इतिहास",
+   "set": "nayab-subba-gk-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/gk/nayab-subba-gk-model-questions-set-1"
+  },
+  {
+   "id": "nayab-subba-gk-model-questions-set-1-8",
+   "question": "नेपाललाई संघीय लोकतान्त्रिक गणतन्त्र घोषणा गरिएको मिति कुन हो?",
+   "options": [
+    "२०६३ वैशाख ११",
+    "२०६५ जेठ १५",
+    "२०७२ असोज ३",
+    "२०६४ पुस १५"
+   ],
+   "answer_index": 1,
+   "answer": "२०६५ जेठ १५",
+   "explanation": "पहिलो संविधानसभाको पहिलो बैठकले वि.सं. २०६५ जेठ १५ मा गणतन्त्र घोषणा गरेको थियो।",
+   "unit": "नेपालको इतिहास",
+   "set": "nayab-subba-gk-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/gk/nayab-subba-gk-model-questions-set-1"
+  },
+  {
+   "id": "nayab-subba-gk-model-questions-set-1-9",
+   "question": "नेपालको पहिलो पञ्चवर्षीय योजना कहिले सुरु भएको थियो?",
+   "options": [
+    "वि.सं. २००७",
+    "वि.सं. २०१३",
+    "वि.सं. २०१७",
+    "वि.सं. २०२२"
+   ],
+   "answer_index": 1,
+   "answer": "वि.सं. २०१३",
+   "explanation": "नेपालमा योजनाबद्ध विकास वि.सं. २०१३ बाट पहिलो पञ्चवर्षीय योजनासँगै सुरु भएको हो।",
+   "unit": "नेपालको आर्थिक अवस्था",
+   "set": "nayab-subba-gk-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/gk/nayab-subba-gk-model-questions-set-1"
+  },
+  {
+   "id": "nayab-subba-gk-model-questions-set-1-10",
+   "question": "सोह्रौँ योजनाको अवधि कुन हो?",
+   "options": [
+    "आ.व. २०७६/७७–२०८०/८१",
+    "आ.व. २०८१/८२–२०८५/८६",
+    "आ.व. २०८०/८१–२०८४/८५",
+    "आ.व. २०८२/८३–२०८६/८७"
+   ],
+   "answer_index": 1,
+   "answer": "आ.व. २०८१/८२–२०८५/८६",
+   "explanation": "सोह्रौँ योजना आ.व. २०८१/८२ देखि २०८५/८६ सम्मका लागि हो; पन्ध्रौँ योजना २०७६/७७–२०८०/८१ को थियो।",
+   "unit": "नेपालको आर्थिक अवस्था",
+   "set": "nayab-subba-gk-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/gk/nayab-subba-gk-model-questions-set-1"
+  },
+  {
+   "id": "nayab-subba-gk-model-questions-set-1-11",
+   "question": "इन्सुलिन हर्मोन कुन अंगले बनाउँछ?",
+   "options": [
+    "कलेजो",
+    "मिर्गौला",
+    "प्यान्क्रियाज (अग्न्याशय)",
+    "थाइराइड"
+   ],
+   "answer_index": 2,
+   "answer": "प्यान्क्रियाज (अग्न्याशय)",
+   "explanation": "प्यान्क्रियाजका आइलेट्स अफ ल्याङ्गरहान्सका बिटा कोषले इन्सुलिन बनाउँछन्; यसको कमीले मधुमेह हुन्छ।",
+   "unit": "विज्ञान प्रविधि र स्वास्थ्य",
+   "set": "nayab-subba-gk-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/gk/nayab-subba-gk-model-questions-set-1"
+  },
+  {
+   "id": "nayab-subba-gk-model-questions-set-1-12",
+   "question": "बीसीजी (BCG) खोप कुन रोगविरुद्ध दिइन्छ?",
+   "options": [
+    "दादुरा",
+    "क्षयरोग",
+    "पोलियो",
+    "धनुष्टंकार"
+   ],
+   "answer_index": 1,
+   "answer": "क्षयरोग",
+   "explanation": "BCG खोप क्षयरोग (टिबी) विरुद्ध जन्मपछि दिइन्छ।",
+   "unit": "विज्ञान प्रविधि र स्वास्थ्य",
+   "set": "nayab-subba-gk-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/gk/nayab-subba-gk-model-questions-set-1"
+  },
+  {
+   "id": "nayab-subba-gk-model-questions-set-1-13",
+   "question": "हरितगृह प्रभाव बढाउने मुख्य ग्यास कुन हो?",
+   "options": [
+    "अक्सिजन",
+    "नाइट्रोजन",
+    "कार्बनडाइअक्साइड",
+    "आर्गन"
+   ],
+   "answer_index": 2,
+   "answer": "कार्बनडाइअक्साइड",
+   "explanation": "कार्बनडाइअक्साइड, मिथेनजस्ता ग्यासले तापलाई वायुमण्डलमा रोक्छन्; यसले विश्वव्यापी तापमान बढाउँछ।",
+   "unit": "पारिस्थितिक प्रणाली र वातावरण",
+   "set": "nayab-subba-gk-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/gk/nayab-subba-gk-model-questions-set-1"
+  },
+  {
+   "id": "nayab-subba-gk-model-questions-set-1-14",
+   "question": "जैविक विविधतासम्बन्धी महासन्धि (CBD) हस्ताक्षरका लागि खुला गरिएको पृथ्वी सम्मेलन कहाँ भएको थियो?",
+   "options": [
+    "क्योटो, सन् १९९७",
+    "रियो दि जेनेरियो, सन् १९९२",
+    "पेरिस, सन् २०१५",
+    "स्टकहोम, सन् १९७२"
+   ],
+   "answer_index": 1,
+   "answer": "रियो दि जेनेरियो, सन् १९९२",
+   "explanation": "सन् १९९२ को रियो पृथ्वी सम्मेलनमा जैविक विविधतासम्बन्धी महासन्धि हस्ताक्षरका लागि खुला गरिएको थियो।",
+   "unit": "पारिस्थितिक प्रणाली र वातावरण",
+   "set": "nayab-subba-gk-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/gk/nayab-subba-gk-model-questions-set-1"
+  },
+  {
+   "id": "nayab-subba-gk-model-questions-set-1-15",
+   "question": "बिमस्टेक (BIMSTEC) को सचिवालय कहाँ छ?",
+   "options": [
+    "काठमाडौं",
+    "बैंकक",
+    "ढाका",
+    "कोलम्बो"
+   ],
+   "answer_index": 2,
+   "answer": "ढाका",
+   "explanation": "बिमस्टेकको स्थायी सचिवालय ढाकामा छ; सार्कको सचिवालय काठमाडौंमा।",
+   "unit": "अन्तर्राष्ट्रिय सम्बन्ध",
+   "set": "nayab-subba-gk-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/gk/nayab-subba-gk-model-questions-set-1"
+  },
+  {
+   "id": "iq-model-questions-set-1-1",
+   "question": "क्रम पूरा गर्नुहोस्: ३, ९, २७, ८१, ?",
+   "options": [
+    "१६२",
+    "२४३",
+    "२१६",
+    "३२४"
+   ],
+   "answer_index": 1,
+   "answer": "२४३",
+   "explanation": "हरेक पद अघिल्लोको ३ गुणा छ: ८१ × ३ = २४३।",
+   "unit": "मात्रात्मक तार्किक",
+   "set": "iq-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "iq",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/iq/iq-model-questions-set-1"
+  },
+  {
+   "id": "iq-model-questions-set-1-2",
+   "question": "क्रम पूरा गर्नुहोस्: १, ४, ९, १६, २५, ?",
+   "options": [
+    "३०",
+    "३४",
+    "३६",
+    "४९"
+   ],
+   "answer_index": 2,
+   "answer": "३६",
+   "explanation": "१², २², ३², ४², ५² पछि ६² = ३६।",
+   "unit": "मात्रात्मक तार्किक",
+   "set": "iq-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "iq",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/iq/iq-model-questions-set-1"
+  },
+  {
+   "id": "iq-model-questions-set-1-3",
+   "question": "AZ : BY :: CX : ?",
+   "options": [
+    "DW",
+    "DY",
+    "EW",
+    "BW"
+   ],
+   "answer_index": 0,
+   "answer": "DW",
+   "explanation": "पहिलो अक्षर एक अगाडि (A→B→C→D) र दोस्रो एक पछाडि (Z→Y→X→W) सर्छ।",
+   "unit": "शाब्दिक तार्किक",
+   "set": "iq-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "iq",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/iq/iq-model-questions-set-1"
+  },
+  {
+   "id": "iq-model-questions-set-1-4",
+   "question": "यदि MANGO लाई NBOHP लेखिन्छ भने APPLE लाई कसरी लेखिन्छ?",
+   "options": [
+    "BQQMF",
+    "BOOKD",
+    "ZOOKD",
+    "BQQME"
+   ],
+   "answer_index": 0,
+   "answer": "BQQMF",
+   "explanation": "हरेक अक्षर वर्णमालामा एक अक्षर अगाडि सर्छ: A→B, P→Q, P→Q, L→M, E→F।",
+   "unit": "शाब्दिक तार्किक",
+   "set": "iq-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "iq",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/iq/iq-model-questions-set-1"
+  },
+  {
+   "id": "iq-model-questions-set-1-5",
+   "question": "३० जनाको पङ्क्तिमा राम अगाडिबाट ११औँ स्थानमा छन्। पछाडिबाट उनी कतिऔँ स्थानमा छन्?",
+   "options": [
+    "१९औँ",
+    "२०औँ",
+    "२१औँ",
+    "१८औँ"
+   ],
+   "answer_index": 1,
+   "answer": "२०औँ",
+   "explanation": "पछाडिबाट स्थान = जम्मा − अगाडिबाटको स्थान + १ = ३० − ११ + १ = २०।",
+   "unit": "शाब्दिक तार्किक",
+   "set": "iq-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "iq",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/iq/iq-model-questions-set-1"
+  },
+  {
+   "id": "iq-model-questions-set-1-6",
+   "question": "एक जना दक्षिणतर्फ १० मिटर हिँडे, अनि बायाँ मोडिएर १० मिटर हिँडे। अब उनी सुरुको ठाउँबाट कुन दिशामा छन्?",
+   "options": [
+    "उत्तर-पूर्व",
+    "दक्षिण-पूर्व",
+    "दक्षिण-पश्चिम",
+    "उत्तर-पश्चिम"
+   ],
+   "answer_index": 1,
+   "answer": "दक्षिण-पूर्व",
+   "explanation": "दक्षिणतर्फ फर्केर बायाँ मोडिँदा पूर्वतर्फ जाइन्छ; अन्तिम स्थान सुरुबाट दक्षिण र पूर्व दुवैतर्फ छ।",
+   "unit": "शाब्दिक तार्किक",
+   "set": "iq-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "iq",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/iq/iq-model-questions-set-1"
+  },
+  {
+   "id": "iq-model-questions-set-1-7",
+   "question": "एउटा वस्तुको मूल्य २० प्रतिशत बढेर रु १,२०० भयो। सुरुको मूल्य कति थियो?",
+   "options": [
+    "रु ९६०",
+    "रु १,०००",
+    "रु ९८०",
+    "रु १,०२०"
+   ],
+   "answer_index": 1,
+   "answer": "रु १,०००",
+   "explanation": "सुरुको मूल्य × १.२ = १,२०० भएकाले सुरुको मूल्य = १,२०० ÷ १.२ = १,०००।",
+   "unit": "मात्रात्मक तार्किक",
+   "set": "iq-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "iq",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/iq/iq-model-questions-set-1"
+  },
+  {
+   "id": "iq-model-questions-set-1-8",
+   "question": "रु ८०० मा किनेको सामान रु १,००० मा बेच्दा नाफा प्रतिशत कति हुन्छ?",
+   "options": [
+    "२०%",
+    "२२.५%",
+    "२५%",
+    "३०%"
+   ],
+   "answer_index": 2,
+   "answer": "२५%",
+   "explanation": "नाफा = २००; नाफा प्रतिशत = २०० ÷ ८०० × १०० = २५%।",
+   "unit": "मात्रात्मक तार्किक",
+   "set": "iq-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "iq",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/iq/iq-model-questions-set-1"
+  },
+  {
+   "id": "iq-model-questions-set-1-9",
+   "question": "५ संख्याको औसत २० छ। एउटा संख्या हटाउँदा बाँकी ४ को औसत १८ हुन्छ। हटाइएको संख्या कति हो?",
+   "options": [
+    "२०",
+    "२४",
+    "२८",
+    "३२"
+   ],
+   "answer_index": 2,
+   "answer": "२८",
+   "explanation": "जम्मा = ५ × २० = १००; बाँकी ४ को जम्मा = ४ × १८ = ७२; हटाइएको = १०० − ७२ = २८।",
+   "unit": "मात्रात्मक तार्किक",
+   "set": "iq-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "iq",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/iq/iq-model-questions-set-1"
+  },
+  {
+   "id": "iq-model-questions-set-1-10",
+   "question": "A ले एउटा काम १० दिनमा र B ले सोही काम १५ दिनमा सक्छन्। दुवै मिलेर कति दिनमा सक्छन्?",
+   "options": [
+    "५ दिन",
+    "६ दिन",
+    "८ दिन",
+    "१२.५ दिन"
+   ],
+   "answer_index": 1,
+   "answer": "६ दिन",
+   "explanation": "एक दिनमा मिलेर गर्ने काम = १/१० + १/१५ = ५/३० = १/६; त्यसैले ६ दिन।",
+   "unit": "मात्रात्मक तार्किक",
+   "set": "iq-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "iq",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/iq/iq-model-questions-set-1"
+  },
+  {
+   "id": "iq-model-questions-set-1-11",
+   "question": "रु ९०० लाई २:३:४ को अनुपातमा बाँड्दा सबैभन्दा ठूलो भाग कति हुन्छ?",
+   "options": [
+    "रु ३००",
+    "रु ३५०",
+    "रु ४००",
+    "रु ४५०"
+   ],
+   "answer_index": 2,
+   "answer": "रु ४००",
+   "explanation": "जम्मा भाग = ९; एक भाग = १००; सबैभन्दा ठूलो = ४ × १०० = ४००।",
+   "unit": "मात्रात्मक तार्किक",
+   "set": "iq-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "iq",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/iq/iq-model-questions-set-1"
+  },
+  {
+   "id": "iq-model-questions-set-1-12",
+   "question": "कुनै महिनाको १ गते आइतबार परे सोही महिनाको २९ गते कुन बार पर्छ?",
+   "options": [
+    "शनिबार",
+    "आइतबार",
+    "सोमबार",
+    "बुधबार"
+   ],
+   "answer_index": 1,
+   "answer": "आइतबार",
+   "explanation": "१ देखि २९ गतेसम्म २८ दिनको फरक छ, जुन ठ्याक्कै ४ हप्ता हो; त्यसैले आइतबार नै।",
+   "unit": "मात्रात्मक तार्किक",
+   "set": "iq-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "iq",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/iq/iq-model-questions-set-1"
+  },
+  {
+   "id": "iq-model-questions-set-1-13",
+   "question": "ऐनामा हेर्दा घडीमा ३:०० बजेको देखियो। वास्तविक समय कति हो?",
+   "options": [
+    "३:००",
+    "६:००",
+    "९:००",
+    "१२:००"
+   ],
+   "answer_index": 2,
+   "answer": "९:००",
+   "explanation": "ऐनाको छायाको समय निकाल्न ११:६० बाट घटाइन्छ: ११:६० − ३:०० = ८:६० अर्थात् ९:००।",
+   "unit": "अशाब्दिक तार्किक",
+   "set": "iq-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "iq",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/iq/iq-model-questions-set-1"
+  },
+  {
+   "id": "iq-model-questions-set-1-14",
+   "question": "नमिल्ने छुट्याउनुहोस्:",
+   "options": [
+    "त्रिभुज",
+    "वर्ग",
+    "आयत",
+    "वृत्त"
+   ],
+   "answer_index": 3,
+   "answer": "वृत्त",
+   "explanation": "त्रिभुज, वर्ग र आयत सीधा रेखाले बनेका आकृति (बहुभुज) हुन्; वृत्त होइन।",
+   "unit": "अशाब्दिक तार्किक",
+   "set": "iq-model-questions-set-1",
+   "exam": "nayab-subba",
+   "subject": "iq",
+   "practice_online": "https://dipaacademy.com/practice/nayab-subba/iq/iq-model-questions-set-1"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-2-1",
+   "question": "प्रतिनिधि सभामा समानुपातिक निर्वाचन प्रणालीबाट कति सदस्य निर्वाचित हुन्छन्?",
+   "options": [
+    "५९",
+    "११०",
+    "१६५",
+    "२७५"
+   ],
+   "answer_index": 1,
+   "answer": "११०",
+   "explanation": "२७५ सदस्यीय प्रतिनिधि सभामा १६५ पहिलो हुने निर्वाचित र ११० समानुपातिकबाट आउँछन्।",
+   "unit": "संघीय संसद",
+   "set": "constitution-of-nepal-questions-set-2",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-2"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-2-2",
+   "question": "राष्ट्रिय सभामा राष्ट्रपतिबाट कति सदस्य मनोनीत हुन्छन्?",
+   "options": [
+    "२",
+    "३",
+    "५",
+    "८"
+   ],
+   "answer_index": 1,
+   "answer": "३",
+   "explanation": "५९ सदस्यीय राष्ट्रिय सभामा ५६ प्रदेशबाट निर्वाचित र ३ राष्ट्रपतिबाट मनोनीत हुन्छन्।",
+   "unit": "संघीय संसद",
+   "set": "constitution-of-nepal-questions-set-2",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-2"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-2-3",
+   "question": "राष्ट्रिय सभाका सदस्यको पदावधि कति वर्षको हुन्छ?",
+   "options": [
+    "४ वर्ष",
+    "५ वर्ष",
+    "६ वर्ष",
+    "स्थायी"
+   ],
+   "answer_index": 2,
+   "answer": "६ वर्ष",
+   "explanation": "राष्ट्रिय सभा स्थायी सदन हो; सदस्यको पदावधि ६ वर्ष हुन्छ र हरेक दुई वर्षमा एक तिहाइ सदस्यको पदावधि सकिन्छ।",
+   "unit": "संघीय संसद",
+   "set": "constitution-of-nepal-questions-set-2",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-2"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-2-4",
+   "question": "संविधान संशोधनसम्बन्धी व्यवस्था कुन धारामा छ?",
+   "options": [
+    "धारा २७३",
+    "धारा २७४",
+    "धारा २७५",
+    "धारा ३०८"
+   ],
+   "answer_index": 1,
+   "answer": "धारा २७४",
+   "explanation": "धारा २७४ अनुसार संविधान संशोधन विधेयक संघीय संसदका दुवै सदनको दुई तिहाइ बहुमतबाट पारित हुनुपर्छ।",
+   "unit": "संशोधन",
+   "set": "constitution-of-nepal-questions-set-2",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-2"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-2-5",
+   "question": "संकटकालीन अवस्थाको घोषणासम्बन्धी व्यवस्था कुन धारामा छ?",
+   "options": [
+    "धारा ११४",
+    "धारा २६७",
+    "धारा २७३",
+    "धारा २७६"
+   ],
+   "answer_index": 2,
+   "answer": "धारा २७३",
+   "explanation": "धारा २७३ अनुसार राष्ट्रपतिले संकटकालीन अवस्थाको घोषणा गर्न सक्छन्।",
+   "unit": "संकटकाल",
+   "set": "constitution-of-nepal-questions-set-2",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-2"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-2-6",
+   "question": "संघ, प्रदेश र स्थानीय तहको साझा अधिकारको सूची कुन अनुसूचीमा छ?",
+   "options": [
+    "अनुसूची ५",
+    "अनुसूची ७ र ९",
+    "अनुसूची ६",
+    "अनुसूची ८"
+   ],
+   "answer_index": 1,
+   "answer": "अनुसूची ७ र ९",
+   "explanation": "अनुसूची ७ मा संघ र प्रदेशको साझा सूची र अनुसूची ९ मा तीनै तहको साझा सूची छ; ५ संघको, ६ प्रदेशको र ८ स्थानीय तहको एकल सूची हो।",
+   "unit": "अनुसूची",
+   "set": "constitution-of-nepal-questions-set-2",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-2"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-2-7",
+   "question": "मौलिक हक कार्यान्वयनका लागि कानुन बनाउने व्यवस्था कुन धारामा छ?",
+   "options": [
+    "धारा ४६",
+    "धारा ४७",
+    "धारा ४८",
+    "धारा ४९"
+   ],
+   "answer_index": 1,
+   "answer": "धारा ४७",
+   "explanation": "धारा ४७ अनुसार मौलिक हक कार्यान्वयनका लागि तीन वर्षभित्र कानुन बनाउनुपर्ने व्यवस्था थियो; धारा ४६ संवैधानिक उपचारको हक हो।",
+   "unit": "मौलिक हक",
+   "set": "constitution-of-nepal-questions-set-2",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-2"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-2-8",
+   "question": "नेपालको राष्ट्रभाषासम्बन्धी व्यवस्था अनुसार नेपालमा बोलिने सबै मातृभाषा के हुन्?",
+   "options": [
+    "सरकारी कामकाजका भाषा",
+    "राष्ट्रभाषा",
+    "सम्पर्क भाषा",
+    "स्थानीय भाषा मात्र"
+   ],
+   "answer_index": 1,
+   "answer": "राष्ट्रभाषा",
+   "explanation": "धारा ६ अनुसार नेपालमा बोलिने सबै मातृभाषा राष्ट्रभाषा हुन्; धारा ७ अनुसार देवनागरी लिपिको नेपाली सरकारी कामकाजको भाषा हो।",
+   "unit": "राज्यका आधार",
+   "set": "constitution-of-nepal-questions-set-2",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-2"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-2-9",
+   "question": "प्रदेश प्रमुखको व्यवस्था संविधानको कुन भागमा छ?",
+   "options": [
+    "भाग १२",
+    "भाग १३",
+    "भाग १४",
+    "भाग १७"
+   ],
+   "answer_index": 1,
+   "answer": "भाग १३",
+   "explanation": "भाग १३ मा प्रदेश प्रमुखसम्बन्धी व्यवस्था छ; प्रदेश कार्यपालिका भाग १४ र स्थानीय कार्यपालिका भाग १७ मा छन्।",
+   "unit": "राज्यको संरचना",
+   "set": "constitution-of-nepal-questions-set-2",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-2"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-2-10",
+   "question": "संवैधानिक निकायका प्रमुखको नियुक्ति कसको सिफारिसमा हुन्छ?",
+   "options": [
+    "मन्त्रिपरिषद्",
+    "संवैधानिक परिषद्",
+    "न्याय परिषद्",
+    "संसदीय सुनुवाइ समिति"
+   ],
+   "answer_index": 1,
+   "answer": "संवैधानिक परिषद्",
+   "explanation": "धारा २८४ बमोजिमको संवैधानिक परिषद्को सिफारिसमा राष्ट्रपतिले नियुक्ति गर्छन्; नियुक्तिअघि संसदीय सुनुवाइ हुन्छ।",
+   "unit": "संवैधानिक निकाय",
+   "set": "constitution-of-nepal-questions-set-2",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-2"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-2-11",
+   "question": "न्यायाधीशको नियुक्तिको सिफारिस गर्ने निकाय कुन हो?",
+   "options": [
+    "संवैधानिक परिषद्",
+    "न्याय परिषद्",
+    "न्याय सेवा आयोग",
+    "सर्वोच्च अदालत"
+   ],
+   "answer_index": 1,
+   "answer": "न्याय परिषद्",
+   "explanation": "धारा १५३ बमोजिमको न्याय परिषद्ले न्यायाधीशको नियुक्ति, सरुवा र कारबाहीको सिफारिस गर्छ।",
+   "unit": "न्यायपालिका",
+   "set": "constitution-of-nepal-questions-set-2",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-2"
+  },
+  {
+   "id": "constitution-of-nepal-questions-set-2-12",
+   "question": "स्थानीय तहको कार्यकारिणी अधिकार कसमा रहन्छ?",
+   "options": [
+    "जिल्ला समन्वय समिति",
+    "गाउँ/नगर कार्यपालिका",
+    "प्रमुख प्रशासकीय अधिकृत",
+    "प्रदेश सरकार"
+   ],
+   "answer_index": 1,
+   "answer": "गाउँ/नगर कार्यपालिका",
+   "explanation": "धारा २१४ अनुसार स्थानीय तहको कार्यकारिणी अधिकार गाउँ कार्यपालिका वा नगर कार्यपालिकामा रहन्छ।",
+   "unit": "स्थानीय तह",
+   "set": "constitution-of-nepal-questions-set-2",
+   "exam": "loksewa",
+   "subject": "constitution",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/constitution/constitution-of-nepal-questions-set-2"
+  },
+  {
+   "id": "nepal-economy-questions-set-1-1",
+   "question": "नेपाल राष्ट्र बैंकको स्थापना कहिले भएको हो?",
+   "options": [
+    "वि.सं. २००८",
+    "वि.सं. २०१३ वैशाख १४",
+    "वि.सं. २०२१",
+    "वि.सं. २०३०"
+   ],
+   "answer_index": 1,
+   "answer": "वि.सं. २०१३ वैशाख १४",
+   "explanation": "नेपाल राष्ट्र बैंक वि.सं. २०१३ वैशाख १४ (सन् १९५६ अप्रिल २६) मा स्थापना भयो; यो नेपालको केन्द्रीय बैंक हो।",
+   "unit": "बैंकिङ",
+   "set": "nepal-economy-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/nepal-economy-questions-set-1"
+  },
+  {
+   "id": "nepal-economy-questions-set-1-2",
+   "question": "नेपालमा पहिलो बजेट कुन वर्ष प्रस्तुत भएको थियो?",
+   "options": [
+    "वि.सं. २००७",
+    "वि.सं. २००८",
+    "वि.सं. २०१३",
+    "वि.सं. २०१५"
+   ],
+   "answer_index": 1,
+   "answer": "वि.सं. २००८",
+   "explanation": "वि.सं. २००८ माघ २१ मा तत्कालीन अर्थमन्त्री सुवर्णशमशेरले नेपालको पहिलो बजेट प्रस्तुत गरेका थिए।",
+   "unit": "बजेट",
+   "set": "nepal-economy-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/nepal-economy-questions-set-1"
+  },
+  {
+   "id": "nepal-economy-questions-set-1-3",
+   "question": "नेपालको पहिलो पञ्चवर्षीय योजना कहिले सुरु भयो?",
+   "options": [
+    "वि.सं. २००८",
+    "वि.सं. २०१३",
+    "वि.सं. २०१७",
+    "वि.सं. २०२०"
+   ],
+   "answer_index": 1,
+   "answer": "वि.सं. २०१३",
+   "explanation": "पहिलो पञ्चवर्षीय योजना वि.सं. २०१३ (सन् १९५६) बाट सुरु भयो।",
+   "unit": "योजना",
+   "set": "nepal-economy-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/nepal-economy-questions-set-1"
+  },
+  {
+   "id": "nepal-economy-questions-set-1-4",
+   "question": "नेपालको आवधिक योजना बनाउने मुख्य निकाय कुन हो?",
+   "options": [
+    "अर्थ मन्त्रालय",
+    "राष्ट्रिय योजना आयोग",
+    "नेपाल राष्ट्र बैंक",
+    "राष्ट्रिय तथ्याङ्क कार्यालय"
+   ],
+   "answer_index": 1,
+   "answer": "राष्ट्रिय योजना आयोग",
+   "explanation": "राष्ट्रिय योजना आयोगले आवधिक विकास योजना तर्जुमा गर्छ; अर्थ मन्त्रालयले बजेट बनाउँछ।",
+   "unit": "योजना",
+   "set": "nepal-economy-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/nepal-economy-questions-set-1"
+  },
+  {
+   "id": "nepal-economy-questions-set-1-5",
+   "question": "आर्थिक सर्वेक्षण कुन निकायले प्रकाशित गर्छ?",
+   "options": [
+    "नेपाल राष्ट्र बैंक",
+    "राष्ट्रिय योजना आयोग",
+    "अर्थ मन्त्रालय",
+    "महालेखा नियन्त्रक कार्यालय"
+   ],
+   "answer_index": 2,
+   "answer": "अर्थ मन्त्रालय",
+   "explanation": "अर्थ मन्त्रालयले हरेक वर्ष बजेटअघि आर्थिक सर्वेक्षण संसदमा प्रस्तुत गर्छ।",
+   "unit": "बजेट",
+   "set": "nepal-economy-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/nepal-economy-questions-set-1"
+  },
+  {
+   "id": "nepal-economy-questions-set-1-6",
+   "question": "WTO को सन् २०२६ को व्यापार नीति समीक्षाअनुसार नेपालको कुल गार्हस्थ्य उत्पादनमा विप्रेषणको हिस्सा करिब कति छ?",
+   "options": [
+    "१५.३ प्रतिशत",
+    "२०.१ प्रतिशत",
+    "२५.३ प्रतिशत",
+    "३०.५ प्रतिशत"
+   ],
+   "answer_index": 2,
+   "answer": "२५.३ प्रतिशत",
+   "explanation": "समीक्षाअनुसार विप्रेषण कुल गार्हस्थ्य उत्पादनको करिब २५.३ प्रतिशत छ।",
+   "unit": "विप्रेषण",
+   "set": "nepal-economy-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/nepal-economy-questions-set-1"
+  },
+  {
+   "id": "nepal-economy-questions-set-1-7",
+   "question": "नेपालको वस्तु निर्यातको सबैभन्दा ठुलो गन्तव्य कुन देश हो?",
+   "options": [
+    "चीन",
+    "भारत",
+    "अमेरिका",
+    "बंगलादेश"
+   ],
+   "answer_index": 1,
+   "answer": "भारत",
+   "explanation": "वस्तु निर्यातको करिब दुई तिहाइ (WTO समीक्षाअनुसार करिब ६८ प्रतिशत) भारत जान्छ।",
+   "unit": "व्यापार",
+   "set": "nepal-economy-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/nepal-economy-questions-set-1"
+  },
+  {
+   "id": "nepal-economy-questions-set-1-8",
+   "question": "नेपालमा मूल्य अभिवृद्धि कर (VAT) को सामान्य दर कति छ?",
+   "options": [
+    "१० प्रतिशत",
+    "१३ प्रतिशत",
+    "१५ प्रतिशत",
+    "१८ प्रतिशत"
+   ],
+   "answer_index": 1,
+   "answer": "१३ प्रतिशत",
+   "explanation": "नेपालमा VAT को एकल सामान्य दर १३ प्रतिशत छ, जुन वि.सं. २०५४ बाट लागू भएको हो।",
+   "unit": "राजस्व",
+   "set": "nepal-economy-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/nepal-economy-questions-set-1"
+  },
+  {
+   "id": "nepal-economy-questions-set-1-9",
+   "question": "नेपाल विश्व व्यापार संगठन (WTO) को सदस्य कहिले बन्यो?",
+   "options": [
+    "सन् १९९५",
+    "सन् २००१",
+    "सन् २००४",
+    "सन् २००८"
+   ],
+   "answer_index": 2,
+   "answer": "सन् २००४",
+   "explanation": "नेपाल सन् २००४ अप्रिल २३ मा WTO को १४७औं सदस्य बन्यो; अतिकम विकसित देशमध्ये पूर्ण वार्ताबाट प्रवेश गर्ने पहिलो हो।",
+   "unit": "अन्तर्राष्ट्रिय",
+   "set": "nepal-economy-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/nepal-economy-questions-set-1"
+  },
+  {
+   "id": "nepal-economy-questions-set-1-10",
+   "question": "नेपालको धितोपत्र बजारको नियमन कुन निकायले गर्छ?",
+   "options": [
+    "नेपाल राष्ट्र बैंक",
+    "नेपाल धितोपत्र बोर्ड (SEBON)",
+    "NEPSE",
+    "बिमा प्राधिकरण"
+   ],
+   "answer_index": 1,
+   "answer": "नेपाल धितोपत्र बोर्ड (SEBON)",
+   "explanation": "धितोपत्र बजारको नियामक नेपाल धितोपत्र बोर्ड हो; NEPSE दोस्रो बजार सञ्चालन गर्ने एक्सचेन्ज हो।",
+   "unit": "पुँजीबजार",
+   "set": "nepal-economy-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/nepal-economy-questions-set-1"
+  },
+  {
+   "id": "nepal-economy-questions-set-1-11",
+   "question": "विश्व बैंकको सन् २०२६ को ब्रिफअनुसार दैनिक ३ डलरको रेखामा नेपालको अति गरिबी कति छ?",
+   "options": [
+    "२.४ प्रतिशत",
+    "८.२ प्रतिशत",
+    "१८.७ प्रतिशत",
+    "२०.३ प्रतिशत"
+   ],
+   "answer_index": 0,
+   "answer": "२.४ प्रतिशत",
+   "explanation": "सन् २०२२ को तथ्याङ्कमा आधारित ब्रिफअनुसार अति गरिबी २.४ प्रतिशत छ, तर ५२.७ प्रतिशत जनसंख्या आर्थिक रूपमा जोखिममा छ।",
+   "unit": "गरिबी",
+   "set": "nepal-economy-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/nepal-economy-questions-set-1"
+  },
+  {
+   "id": "nepal-economy-questions-set-1-12",
+   "question": "सरकारी लेखा राख्ने र केन्द्रीय लेखा तयार गर्ने निकाय कुन हो?",
+   "options": [
+    "महालेखा परीक्षकको कार्यालय",
+    "महालेखा नियन्त्रक कार्यालय",
+    "राजस्व अनुसन्धान विभाग",
+    "अर्थ मन्त्रालय"
+   ],
+   "answer_index": 1,
+   "answer": "महालेखा नियन्त्रक कार्यालय",
+   "explanation": "महालेखा नियन्त्रक कार्यालयले सरकारी लेखा प्रणाली सञ्चालन र केन्द्रीय लेखा तयार गर्छ; महालेखा परीक्षकले लेखापरीक्षण गर्छ।",
+   "unit": "सार्वजनिक वित्त",
+   "set": "nepal-economy-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/nepal-economy-questions-set-1"
+  },
+  {
+   "id": "governance-public-administration-questions-set-1-1",
+   "question": "लोक सेवा आयोगसम्बन्धी व्यवस्था संविधानको कुन धारामा छ?",
+   "options": [
+    "धारा २३८",
+    "धारा २४०",
+    "धारा २४२",
+    "धारा २४५"
+   ],
+   "answer_index": 2,
+   "answer": "धारा २४२",
+   "explanation": "धारा २४२ मा लोक सेवा आयोगको गठन छ; काम, कर्तव्य र अधिकार धारा २४३ मा छन्।",
+   "unit": "संवैधानिक निकाय",
+   "set": "governance-public-administration-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/governance-public-administration-questions-set-1"
+  },
+  {
+   "id": "governance-public-administration-questions-set-1-2",
+   "question": "अख्तियार दुरुपयोग अनुसन्धान आयोगको व्यवस्था कुन धारामा छ?",
+   "options": [
+    "धारा २३८",
+    "धारा २४२",
+    "धारा २४८",
+    "धारा २७३"
+   ],
+   "answer_index": 0,
+   "answer": "धारा २३८",
+   "explanation": "धारा २३८ मा अख्तियार दुरुपयोग अनुसन्धान आयोगको गठन र धारा २३९ मा काम, कर्तव्य र अधिकार छन्।",
+   "unit": "संवैधानिक निकाय",
+   "set": "governance-public-administration-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/governance-public-administration-questions-set-1"
+  },
+  {
+   "id": "governance-public-administration-questions-set-1-3",
+   "question": "महालेखा परीक्षकको व्यवस्था संविधानको कुन धारामा छ?",
+   "options": [
+    "धारा २४०",
+    "धारा २४२",
+    "धारा २४५",
+    "धारा २५०"
+   ],
+   "answer_index": 0,
+   "answer": "धारा २४०",
+   "explanation": "धारा २४० मा महालेखा परीक्षकको नियुक्ति र धारा २४१ मा काम, कर्तव्य र अधिकार छन्।",
+   "unit": "संवैधानिक निकाय",
+   "set": "governance-public-administration-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/governance-public-administration-questions-set-1"
+  },
+  {
+   "id": "governance-public-administration-questions-set-1-4",
+   "question": "हालको निजामती सेवा ऐन कुन सालको हो?",
+   "options": [
+    "वि.सं. २०४७",
+    "वि.सं. २०४९",
+    "वि.सं. २०५६",
+    "वि.सं. २०६४"
+   ],
+   "answer_index": 1,
+   "answer": "वि.सं. २०४९",
+   "explanation": "निजामती सेवा ऐन, २०४९ र निजामती सेवा नियमावली, २०५० नै निजामती प्रशासनको मूल कानुनी आधार हुन्।",
+   "unit": "निजामती सेवा",
+   "set": "governance-public-administration-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/governance-public-administration-questions-set-1"
+  },
+  {
+   "id": "governance-public-administration-questions-set-1-5",
+   "question": "सुशासन (व्यवस्थापन तथा सञ्चालन) ऐन कुन सालमा जारी भयो?",
+   "options": [
+    "वि.सं. २०५६",
+    "वि.सं. २०६१",
+    "वि.सं. २०६४",
+    "वि.सं. २०७२"
+   ],
+   "answer_index": 2,
+   "answer": "वि.सं. २०६४",
+   "explanation": "सुशासन (व्यवस्थापन तथा सञ्चालन) ऐन, २०६४ ले प्रशासन संयन्त्रलाई जनमुखी, जवाफदेही र पारदर्शी बनाउने उद्देश्य राखेको छ।",
+   "unit": "सुशासन",
+   "set": "governance-public-administration-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/governance-public-administration-questions-set-1"
+  },
+  {
+   "id": "governance-public-administration-questions-set-1-6",
+   "question": "सूचनाको हकसम्बन्धी ऐन कुन सालको हो?",
+   "options": [
+    "वि.सं. २०५८",
+    "वि.सं. २०६४",
+    "वि.सं. २०६८",
+    "वि.सं. २०७४"
+   ],
+   "answer_index": 1,
+   "answer": "वि.सं. २०६४",
+   "explanation": "सूचनाको हकसम्बन्धी ऐन, २०६४ ले नागरिकलाई सार्वजनिक निकायको सूचनामा पहुँचको हक दिन्छ; संविधानको धारा २७ ले यसलाई मौलिक हक बनाएको छ।",
+   "unit": "सूचनाको हक",
+   "set": "governance-public-administration-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/governance-public-administration-questions-set-1"
+  },
+  {
+   "id": "governance-public-administration-questions-set-1-7",
+   "question": "सूचना माग्दा सार्वजनिक निकायले सामान्यतया कति दिनभित्र सूचना दिनुपर्छ?",
+   "options": [
+    "७ दिन",
+    "१५ दिन",
+    "३० दिन",
+    "३५ दिन"
+   ],
+   "answer_index": 1,
+   "answer": "१५ दिन",
+   "explanation": "सूचनाको हकसम्बन्धी ऐन, २०६४ अनुसार निवेदन परेको मितिले १५ दिनभित्र सूचना उपलब्ध गराउनुपर्छ।",
+   "unit": "सूचनाको हक",
+   "set": "governance-public-administration-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/governance-public-administration-questions-set-1"
+  },
+  {
+   "id": "governance-public-administration-questions-set-1-8",
+   "question": "स्थानीय सरकार सञ्चालन ऐन कुन सालको हो?",
+   "options": [
+    "वि.सं. २०७२",
+    "वि.सं. २०७४",
+    "वि.सं. २०७५",
+    "वि.सं. २०७६"
+   ],
+   "answer_index": 1,
+   "answer": "वि.सं. २०७४",
+   "explanation": "स्थानीय सरकार सञ्चालन ऐन, २०७४ ले स्थानीय तहको काम, कर्तव्य र अधिकार व्यवस्थित गरेको छ।",
+   "unit": "स्थानीय तह",
+   "set": "governance-public-administration-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/governance-public-administration-questions-set-1"
+  },
+  {
+   "id": "governance-public-administration-questions-set-1-9",
+   "question": "नागरिक बडापत्र (Citizen Charter) को मुख्य उद्देश्य के हो?",
+   "options": [
+    "कर्मचारीको तलब तोक्ने",
+    "सेवाग्राहीलाई सेवा, समय, शुल्क र जिम्मेवार अधिकारीको जानकारी दिने",
+    "कार्यालयको बजेट सार्वजनिक गर्ने",
+    "कर्मचारी सरुवाको मापदण्ड तोक्ने"
+   ],
+   "answer_index": 1,
+   "answer": "सेवाग्राहीलाई सेवा, समय, शुल्क र जिम्मेवार अधिकारीको जानकारी दिने",
+   "explanation": "नागरिक बडापत्रले कुन सेवा, कति समयमा, के शुल्कमा र कुन अधिकारीबाट पाइन्छ भन्ने जानकारी सेवाग्राहीलाई दिन्छ।",
+   "unit": "सेवा प्रवाह",
+   "set": "governance-public-administration-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/governance-public-administration-questions-set-1"
+  },
+  {
+   "id": "governance-public-administration-questions-set-1-10",
+   "question": "राष्ट्रिय मानव अधिकार आयोगको व्यवस्था कुन धारामा छ?",
+   "options": [
+    "धारा २४५",
+    "धारा २४८",
+    "धारा २५२",
+    "धारा २५९"
+   ],
+   "answer_index": 1,
+   "answer": "धारा २४८",
+   "explanation": "धारा २४८ मा राष्ट्रिय मानव अधिकार आयोगको गठन छ।",
+   "unit": "संवैधानिक निकाय",
+   "set": "governance-public-administration-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/governance-public-administration-questions-set-1"
+  },
+  {
+   "id": "governance-public-administration-questions-set-1-11",
+   "question": "निर्वाचन आयोगको गठनसम्बन्धी व्यवस्था कुन धारामा छ?",
+   "options": [
+    "धारा २४२",
+    "धारा २४५",
+    "धारा २४८",
+    "धारा २५०"
+   ],
+   "answer_index": 1,
+   "answer": "धारा २४५",
+   "explanation": "धारा २४५ मा निर्वाचन आयोगको गठन छ; काम, कर्तव्य र अधिकार धारा २४६ मा छन्।",
+   "unit": "संवैधानिक निकाय",
+   "set": "governance-public-administration-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/governance-public-administration-questions-set-1"
+  },
+  {
+   "id": "governance-public-administration-questions-set-1-12",
+   "question": "अध्यादेश जारी गर्ने व्यवस्था संविधानको कुन धारामा छ?",
+   "options": [
+    "धारा ७६",
+    "धारा ११०",
+    "धारा ११४",
+    "धारा २७४"
+   ],
+   "answer_index": 2,
+   "answer": "धारा ११४",
+   "explanation": "धारा ११४ अनुसार संसदको अधिवेशन नचलेका बखत राष्ट्रपतिले मन्त्रिपरिषद्को सिफारिसमा अध्यादेश जारी गर्न सक्छन्।",
+   "unit": "संविधान",
+   "set": "governance-public-administration-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/governance-public-administration-questions-set-1"
+  },
+  {
+   "id": "international-organisations-questions-set-1-1",
+   "question": "संयुक्त राष्ट्रसंघको स्थापना कहिले भयो?",
+   "options": [
+    "सन् १९१९",
+    "सन् १९४५ अक्टोबर २४",
+    "सन् १९४८",
+    "सन् १९५५"
+   ],
+   "answer_index": 1,
+   "answer": "सन् १९४५ अक्टोबर २४",
+   "explanation": "दोस्रो विश्वयुद्धपछि सन् १९४५ अक्टोबर २४ मा स्थापना भयो; त्यही दिन संयुक्त राष्ट्रसंघ दिवस मनाइन्छ।",
+   "unit": "संयुक्त राष्ट्रसंघ",
+   "set": "international-organisations-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/international-organisations-questions-set-1"
+  },
+  {
+   "id": "international-organisations-questions-set-1-2",
+   "question": "नेपाल संयुक्त राष्ट्रसंघको सदस्य कहिले बन्यो?",
+   "options": [
+    "सन् १९४५",
+    "सन् १९५५ डिसेम्बर १४",
+    "सन् १९६०",
+    "सन् १९७१"
+   ],
+   "answer_index": 1,
+   "answer": "सन् १९५५ डिसेम्बर १४",
+   "explanation": "नेपाल सन् १९५५ डिसेम्बर १४ मा संयुक्त राष्ट्रसंघको सदस्य बन्यो।",
+   "unit": "संयुक्त राष्ट्रसंघ",
+   "set": "international-organisations-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/international-organisations-questions-set-1"
+  },
+  {
+   "id": "international-organisations-questions-set-1-3",
+   "question": "सुरक्षा परिषद्मा कति सदस्य हुन्छन्?",
+   "options": [
+    "१० (५ स्थायी)",
+    "१५ (५ स्थायी)",
+    "२० (१० स्थायी)",
+    "५४"
+   ],
+   "answer_index": 1,
+   "answer": "१५ (५ स्थायी)",
+   "explanation": "सुरक्षा परिषद्मा १५ सदस्य हुन्छन्: ५ स्थायी (भिटो अधिकारसहित) र १० अस्थायी (दुई वर्षका लागि निर्वाचित)।",
+   "unit": "संयुक्त राष्ट्रसंघ",
+   "set": "international-organisations-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/international-organisations-questions-set-1"
+  },
+  {
+   "id": "international-organisations-questions-set-1-4",
+   "question": "सार्कको स्थापना कहिले र कहाँ भयो?",
+   "options": [
+    "सन् १९८३, नयाँ दिल्ली",
+    "सन् १९८५ डिसेम्बर ८, ढाका",
+    "सन् १९८५, काठमाडौं",
+    "सन् १९८७, कोलम्बो"
+   ],
+   "answer_index": 1,
+   "answer": "सन् १९८५ डिसेम्बर ८, ढाका",
+   "explanation": "सार्कको स्थापना सन् १९८५ डिसेम्बर ८ मा ढाका शिखर सम्मेलनबाट भयो; सचिवालय भने काठमाडौंमा छ (सन् १९८७ देखि)।",
+   "unit": "सार्क",
+   "set": "international-organisations-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/international-organisations-questions-set-1"
+  },
+  {
+   "id": "international-organisations-questions-set-1-5",
+   "question": "सार्कका सदस्य देश कति छन्?",
+   "options": [
+    "६",
+    "७",
+    "८",
+    "९"
+   ],
+   "answer_index": 2,
+   "answer": "८",
+   "explanation": "८ सदस्य: नेपाल, भारत, पाकिस्तान, बंगलादेश, श्रीलंका, भुटान, माल्दिभ्स र अफगानिस्तान (सन् २००७ मा थपिएको)।",
+   "unit": "सार्क",
+   "set": "international-organisations-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/international-organisations-questions-set-1"
+  },
+  {
+   "id": "international-organisations-questions-set-1-6",
+   "question": "बिम्स्टेकको सचिवालय कहाँ छ?",
+   "options": [
+    "काठमाडौं",
+    "ढाका",
+    "बैंकक",
+    "कोलम्बो"
+   ],
+   "answer_index": 1,
+   "answer": "ढाका",
+   "explanation": "बिम्स्टेक (स्थापना सन् १९९७) को स्थायी सचिवालय ढाकामा छ; सदस्य ७ देश छन्।",
+   "unit": "बिम्स्टेक",
+   "set": "international-organisations-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/international-organisations-questions-set-1"
+  },
+  {
+   "id": "international-organisations-questions-set-1-7",
+   "question": "विश्व स्वास्थ्य संगठन (WHO) को मुख्यालय कहाँ छ?",
+   "options": [
+    "न्युयोर्क",
+    "जेनेभा",
+    "पेरिस",
+    "रोम"
+   ],
+   "answer_index": 1,
+   "answer": "जेनेभा",
+   "explanation": "WHO (स्थापना सन् १९४८ अप्रिल ७, विश्व स्वास्थ्य दिवस) को मुख्यालय जेनेभा, स्विट्जरल्यान्डमा छ।",
+   "unit": "विशिष्ट निकाय",
+   "set": "international-organisations-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/international-organisations-questions-set-1"
+  },
+  {
+   "id": "international-organisations-questions-set-1-8",
+   "question": "अन्तर्राष्ट्रिय श्रम संगठन (ILO) को स्थापना कहिले भयो?",
+   "options": [
+    "सन् १९१९",
+    "सन् १९४५",
+    "सन् १९४८",
+    "सन् १९६६"
+   ],
+   "answer_index": 0,
+   "answer": "सन् १९१९",
+   "explanation": "ILO सन् १९१९ मा भर्सेल्स सन्धिअन्तर्गत स्थापना भयो; मुख्यालय जेनेभामा छ।",
+   "unit": "विशिष्ट निकाय",
+   "set": "international-organisations-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/international-organisations-questions-set-1"
+  },
+  {
+   "id": "international-organisations-questions-set-1-9",
+   "question": "अन्तर्राष्ट्रिय न्यायालय (ICJ) कहाँ छ?",
+   "options": [
+    "जेनेभा",
+    "न्युयोर्क",
+    "हेग",
+    "भियना"
+   ],
+   "answer_index": 2,
+   "answer": "हेग",
+   "explanation": "ICJ नेदरल्यान्ड्सको हेगमा छ; यो संयुक्त राष्ट्रसंघको प्रमुख न्यायिक अंग हो।",
+   "unit": "संयुक्त राष्ट्रसंघ",
+   "set": "international-organisations-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/international-organisations-questions-set-1"
+  },
+  {
+   "id": "international-organisations-questions-set-1-10",
+   "question": "UNESCO को मुख्यालय कहाँ छ?",
+   "options": [
+    "पेरिस",
+    "जेनेभा",
+    "रोम",
+    "लन्डन"
+   ],
+   "answer_index": 0,
+   "answer": "पेरिस",
+   "explanation": "शिक्षा, विज्ञान र संस्कृतिसम्बन्धी निकाय UNESCO को मुख्यालय पेरिसमा छ।",
+   "unit": "विशिष्ट निकाय",
+   "set": "international-organisations-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/international-organisations-questions-set-1"
+  },
+  {
+   "id": "international-organisations-questions-set-1-11",
+   "question": "अन्तर्राष्ट्रिय दूरसञ्चार संघ (ITU) को मुख्यालय कहाँ छ?",
+   "options": [
+    "दोहा",
+    "जेनेभा",
+    "न्युयोर्क",
+    "सिंगापुर"
+   ],
+   "answer_index": 1,
+   "answer": "जेनेभा",
+   "explanation": "ITU को मुख्यालय जेनेभामा छ; सन् २०२६ को पूर्णाधिकार सम्मेलन (PP-26) भने दोहामा भयो।",
+   "unit": "विशिष्ट निकाय",
+   "set": "international-organisations-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/international-organisations-questions-set-1"
+  },
+  {
+   "id": "international-organisations-questions-set-1-12",
+   "question": "जलवायु परिवर्तनसम्बन्धी COP-31 सम्मेलन सन् २०२६ मा कहाँ भयो?",
+   "options": [
+    "बाकु",
+    "बेलेम",
+    "अन्तालिया",
+    "दुबई"
+   ],
+   "answer_index": 2,
+   "answer": "अन्तालिया",
+   "explanation": "COP-31 टर्कीको अन्तालियामा भयो; नेपालले जलवायु वित्तमा अनुदानको हिस्सा बढाउन माग गर्दै आएको छ।",
+   "unit": "समसामयिक",
+   "set": "international-organisations-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/international-organisations-questions-set-1"
+  },
+  {
+   "id": "office-management-questions-set-1-1",
+   "question": "कार्यालयमा प्राप्त पत्र दर्ता गर्ने किताबलाई के भनिन्छ?",
+   "options": [
+    "चलानी किताब",
+    "दर्ता किताब",
+    "जिन्सी खाता",
+    "मस्यौदा किताब"
+   ],
+   "answer_index": 1,
+   "answer": "दर्ता किताब",
+   "explanation": "आएका पत्र दर्ता किताबमा र पठाइने पत्र चलानी किताबमा अभिलेख गरिन्छ।",
+   "unit": "दर्ता-चलानी",
+   "set": "office-management-questions-set-1",
+   "exam": "kharidar",
+   "subject": "office-management",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/office-management/office-management-questions-set-1"
+  },
+  {
+   "id": "office-management-questions-set-1-2",
+   "question": "कार्यालयबाट बाहिर पठाइने पत्रको अभिलेखलाई के भनिन्छ?",
+   "options": [
+    "दर्ता",
+    "चलानी",
+    "तामेली",
+    "बुझारथ"
+   ],
+   "answer_index": 1,
+   "answer": "चलानी",
+   "explanation": "बाहिर पठाइने पत्रको अभिलेखलाई चलानी भनिन्छ; चलानी नम्बर पत्रमा उल्लेख गरिन्छ।",
+   "unit": "दर्ता-चलानी",
+   "set": "office-management-questions-set-1",
+   "exam": "kharidar",
+   "subject": "office-management",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/office-management/office-management-questions-set-1"
+  },
+  {
+   "id": "office-management-questions-set-1-3",
+   "question": "टिप्पणी के का लागि लेखिन्छ?",
+   "options": [
+    "कर्मचारीको हाजिरी जनाउन",
+    "निर्णयका लागि विषय पेस गर्न",
+    "जिन्सी सामान माग्न",
+    "पत्र दर्ता गर्न"
+   ],
+   "answer_index": 1,
+   "answer": "निर्णयका लागि विषय पेस गर्न",
+   "explanation": "कुनै विषयमा निर्णय लिनुपर्दा पृष्ठभूमि, कानुनी आधार र विकल्पसहित निर्णयका लागि पेस गरिने कागजात टिप्पणी हो।",
+   "unit": "टिप्पणी",
+   "set": "office-management-questions-set-1",
+   "exam": "kharidar",
+   "subject": "office-management",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/office-management/office-management-questions-set-1"
+  },
+  {
+   "id": "office-management-questions-set-1-4",
+   "question": "सबै कार्यालयलाई एकैपटक जानकारी दिन पठाइने पत्रलाई के भनिन्छ?",
+   "options": [
+    "निवेदन",
+    "परिपत्र",
+    "सूचना",
+    "आदेश"
+   ],
+   "answer_index": 1,
+   "answer": "परिपत्र",
+   "explanation": "धेरै निकायलाई एकै व्यहोराको जानकारी वा निर्देशन दिन परिपत्र (circular) पठाइन्छ।",
+   "unit": "पत्र लेखन",
+   "set": "office-management-questions-set-1",
+   "exam": "kharidar",
+   "subject": "office-management",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/office-management/office-management-questions-set-1"
+  },
+  {
+   "id": "office-management-questions-set-1-5",
+   "question": "पत्रमा 'बोधार्थ' किन लेखिन्छ?",
+   "options": [
+    "पत्र फिर्ता गर्न",
+    "सम्बन्धित अरू निकायलाई जानकारी दिन",
+    "गोप्य राख्न",
+    "हस्ताक्षर गराउन"
+   ],
+   "answer_index": 1,
+   "answer": "सम्बन्धित अरू निकायलाई जानकारी दिन",
+   "explanation": "मुख्य सम्बोधित निकायबाहेक अरूलाई जानकारीका लागि पत्रको प्रतिलिपि पठाउँदा बोधार्थ लेखिन्छ।",
+   "unit": "पत्र लेखन",
+   "set": "office-management-questions-set-1",
+   "exam": "kharidar",
+   "subject": "office-management",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/office-management/office-management-questions-set-1"
+  },
+  {
+   "id": "office-management-questions-set-1-6",
+   "question": "कार्यालयको काम सकिएका कागजात व्यवस्थित राख्ने कामलाई के भनिन्छ?",
+   "options": [
+    "दर्ता",
+    "अभिलेख व्यवस्थापन",
+    "चलानी",
+    "सोधभर्ना"
+   ],
+   "answer_index": 1,
+   "answer": "अभिलेख व्यवस्थापन",
+   "explanation": "कागजातको वर्गीकरण, संरक्षण र आवश्यक पर्दा झिक्न मिल्ने गरी राख्ने काम अभिलेख (record) व्यवस्थापन हो।",
+   "unit": "अभिलेख",
+   "set": "office-management-questions-set-1",
+   "exam": "kharidar",
+   "subject": "office-management",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/office-management/office-management-questions-set-1"
+  },
+  {
+   "id": "office-management-questions-set-1-7",
+   "question": "बैठकको निर्णय लेखिने अभिलेखलाई के भनिन्छ?",
+   "options": [
+    "प्रतिवेदन",
+    "माइन्युट (निर्णय पुस्तिका)",
+    "टिप्पणी",
+    "प्रेस विज्ञप्ति"
+   ],
+   "answer_index": 1,
+   "answer": "माइन्युट (निर्णय पुस्तिका)",
+   "explanation": "बैठकका उपस्थिति, छलफल र निर्णय माइन्युट अर्थात् निर्णय पुस्तिकामा लेखिन्छ र पदाधिकारीले सही गर्छन्।",
+   "unit": "बैठक",
+   "set": "office-management-questions-set-1",
+   "exam": "kharidar",
+   "subject": "office-management",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/office-management/office-management-questions-set-1"
+  },
+  {
+   "id": "office-management-questions-set-1-8",
+   "question": "फाइलमा कागजात कुन क्रममा राखिन्छ?",
+   "options": [
+    "जथाभावी",
+    "मिति अनुसारको क्रममा",
+    "ठुलो-सानो आकारमा",
+    "रङ अनुसार"
+   ],
+   "answer_index": 1,
+   "answer": "मिति अनुसारको क्रममा",
+   "explanation": "फाइलमा कागजात मितिको क्रम (कालानुक्रम) मा राखिन्छ, जसले कारबाहीको इतिहास देखाउँछ।",
+   "unit": "अभिलेख",
+   "set": "office-management-questions-set-1",
+   "exam": "kharidar",
+   "subject": "office-management",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/office-management/office-management-questions-set-1"
+  },
+  {
+   "id": "office-management-questions-set-1-9",
+   "question": "कार्यालयमा आउने सेवाग्राहीलाई सेवासम्बन्धी जानकारी दिने पहिलो ठाउँ कुन हो?",
+   "options": [
+    "लेखा शाखा",
+    "सोधपुछ तथा सहायता कक्ष",
+    "प्रशासन शाखा",
+    "भण्डार"
+   ],
+   "answer_index": 1,
+   "answer": "सोधपुछ तथा सहायता कक्ष",
+   "explanation": "सोधपुछ तथा सहायता कक्ष (help desk) ले सेवाग्राहीलाई प्रक्रिया, कागजात र जिम्मेवार शाखाको जानकारी दिन्छ।",
+   "unit": "सेवा प्रवाह",
+   "set": "office-management-questions-set-1",
+   "exam": "kharidar",
+   "subject": "office-management",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/office-management/office-management-questions-set-1"
+  },
+  {
+   "id": "office-management-questions-set-1-10",
+   "question": "जिन्सी निरीक्षण प्रतिवेदनमा कुन कुरा समावेश हुन्छ?",
+   "options": [
+    "कर्मचारीको तलब",
+    "सामानको अवस्था र मौज्दात",
+    "पत्रको व्यहोरा",
+    "बैठकको निर्णय"
+   ],
+   "answer_index": 1,
+   "answer": "सामानको अवस्था र मौज्दात",
+   "explanation": "जिन्सी निरीक्षणले सामानको मौज्दात, अवस्था र मर्मत वा लिलाम गर्नुपर्ने विवरण देखाउँछ।",
+   "unit": "जिन्सी",
+   "set": "office-management-questions-set-1",
+   "exam": "kharidar",
+   "subject": "office-management",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/office-management/office-management-questions-set-1"
+  },
+  {
+   "id": "office-management-questions-set-1-11",
+   "question": "'दर्ता नम्बर' र 'चलानी नम्बर' को मुख्य काम के हो?",
+   "options": [
+    "कागजातको सुरक्षा",
+    "कागजात खोज्न र जवाफदेही बनाउन",
+    "शुल्क निर्धारण",
+    "कर्मचारी मूल्याङ्कन"
+   ],
+   "answer_index": 1,
+   "answer": "कागजात खोज्न र जवाफदेही बनाउन",
+   "explanation": "क्रमसंख्याले कागजातको पहिचान, खोजी र कारबाहीको जवाफदेही सुनिश्चित गर्छ।",
+   "unit": "दर्ता-चलानी",
+   "set": "office-management-questions-set-1",
+   "exam": "kharidar",
+   "subject": "office-management",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/office-management/office-management-questions-set-1"
+  },
+  {
+   "id": "office-management-questions-set-1-12",
+   "question": "सरकारी पत्रमा मिति सामान्यतया कुन संवत्‌मा लेखिन्छ?",
+   "options": [
+    "ईस्वी संवत्",
+    "विक्रम संवत्",
+    "नेपाल संवत्",
+    "शक संवत्"
+   ],
+   "answer_index": 1,
+   "answer": "विक्रम संवत्",
+   "explanation": "सरकारी कामकाजमा विक्रम संवत् प्रयोग हुन्छ; आवश्यक परे ई.सं. कोष्ठकमा लेखिन्छ।",
+   "unit": "पत्र लेखन",
+   "set": "office-management-questions-set-1",
+   "exam": "kharidar",
+   "subject": "office-management",
+   "practice_online": "https://dipaacademy.com/practice/kharidar/office-management/office-management-questions-set-1"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-1",
+   "question": "भिटामिन D को कमीले कुन रोग लाग्छ?",
+   "options": [
+    "रतन्धो",
+    "रिकेट्स",
+    "स्कर्भी",
+    "बेरीबेरी"
+   ],
+   "answer_index": 1,
+   "answer": "रिकेट्स",
+   "explanation": "भिटामिन D को कमीले बालबालिकामा रिकेट्स हुन्छ; रतन्धो A, स्कर्भी C र बेरीबेरी B1 को कमीले हुन्छ।",
+   "unit": "स्वास्थ्य",
+   "set": "science-health-environment-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/science-health-environment-questions-set-1"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-2",
+   "question": "विद्युत धाराको एकाइ के हो?",
+   "options": [
+    "भोल्ट",
+    "वाट",
+    "एम्पियर",
+    "ओम"
+   ],
+   "answer_index": 2,
+   "answer": "एम्पियर",
+   "explanation": "धाराको एकाइ एम्पियर हो; भोल्ट विभवान्तर, वाट शक्ति र ओम प्रतिरोधको एकाइ हो।",
+   "unit": "भौतिक विज्ञान",
+   "set": "science-health-environment-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/science-health-environment-questions-set-1"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-3",
+   "question": "नेपालको पहिलो राष्ट्रिय निकुञ्ज कुन हो?",
+   "options": [
+    "सगरमाथा",
+    "चितवन",
+    "बर्दिया",
+    "लाङटाङ"
+   ],
+   "answer_index": 1,
+   "answer": "चितवन",
+   "explanation": "चितवन राष्ट्रिय निकुञ्ज वि.सं. २०३० (सन् १९७३) मा स्थापना भएको नेपालको पहिलो निकुञ्ज हो र यो विश्व सम्पदा सूचीमा छ।",
+   "unit": "वातावरण",
+   "set": "science-health-environment-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/science-health-environment-questions-set-1"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-4",
+   "question": "विश्व वातावरण दिवस कहिले मनाइन्छ?",
+   "options": [
+    "मार्च २२",
+    "अप्रिल २२",
+    "जुन ५",
+    "सेप्टेम्बर १६"
+   ],
+   "answer_index": 2,
+   "answer": "जुन ५",
+   "explanation": "जुन ५ मा विश्व वातावरण दिवस मनाइन्छ; मार्च २२ विश्व जल दिवस, अप्रिल २२ पृथ्वी दिवस र सेप्टेम्बर १६ ओजोन दिवस हुन्।",
+   "unit": "दिवस",
+   "set": "science-health-environment-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/science-health-environment-questions-set-1"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-5",
+   "question": "मानव शरीरको सबैभन्दा ठुलो अंग कुन हो?",
+   "options": [
+    "कलेजो",
+    "छाला",
+    "फोक्सो",
+    "मस्तिष्क"
+   ],
+   "answer_index": 1,
+   "answer": "छाला",
+   "explanation": "छाला शरीरको सबैभन्दा ठुलो अंग हो; भित्री अंगमध्ये कलेजो सबैभन्दा ठुलो हो।",
+   "unit": "जीवविज्ञान",
+   "set": "science-health-environment-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/science-health-environment-questions-set-1"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-6",
+   "question": "हरितगृह ग्यासमध्ये कुन सबैभन्दा धेरै मात्रामा उत्सर्जन हुन्छ?",
+   "options": [
+    "मिथेन",
+    "कार्बन डाइअक्साइड",
+    "नाइट्रस अक्साइड",
+    "सीएफसी"
+   ],
+   "answer_index": 1,
+   "answer": "कार्बन डाइअक्साइड",
+   "explanation": "मानवीय क्रियाकलापबाट सबैभन्दा धेरै उत्सर्जन हुने हरितगृह ग्यास कार्बन डाइअक्साइड हो।",
+   "unit": "जलवायु",
+   "set": "science-health-environment-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/science-health-environment-questions-set-1"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-7",
+   "question": "पानीको शुद्धताका लागि pH मान कति हुन्छ?",
+   "options": [
+    "०",
+    "७",
+    "१०",
+    "१४"
+   ],
+   "answer_index": 1,
+   "answer": "७",
+   "explanation": "शुद्ध पानी उदासीन हुन्छ र यसको pH मान ७ हुन्छ; ७ भन्दा कम अम्लीय र बढी क्षारीय हुन्छ।",
+   "unit": "रसायन",
+   "set": "science-health-environment-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/science-health-environment-questions-set-1"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-8",
+   "question": "नेपालको पहिलो रामसार सूचीकृत सिमसार क्षेत्र कुन हो?",
+   "options": [
+    "फेवा ताल",
+    "कोशी टप्पु",
+    "रारा ताल",
+    "गोसाइँकुण्ड"
+   ],
+   "answer_index": 1,
+   "answer": "कोशी टप्पु",
+   "explanation": "कोशी टप्पु क्षेत्र सन् १९८७ मा रामसार सूचीमा परेको नेपालको पहिलो सिमसार हो।",
+   "unit": "वातावरण",
+   "set": "science-health-environment-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/science-health-environment-questions-set-1"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-9",
+   "question": "कम्प्युटरको 'मस्तिष्क' कुन भागलाई भनिन्छ?",
+   "options": [
+    "RAM",
+    "CPU",
+    "हार्डडिस्क",
+    "मदरबोर्ड"
+   ],
+   "answer_index": 1,
+   "answer": "CPU",
+   "explanation": "केन्द्रीय प्रशोधन एकाइ (CPU) लाई कम्प्युटरको मस्तिष्क भनिन्छ।",
+   "unit": "सूचना प्रविधि",
+   "set": "science-health-environment-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/science-health-environment-questions-set-1"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-10",
+   "question": "ध्वनिको गति कुन माध्यममा सबैभन्दा बढी हुन्छ?",
+   "options": [
+    "हावामा",
+    "पानीमा",
+    "फलाममा",
+    "निर्वात्‌मा"
+   ],
+   "answer_index": 2,
+   "answer": "फलाममा",
+   "explanation": "ध्वनि ठोस माध्यम (जस्तै फलाम) मा सबैभन्दा छिटो र निर्वात्‌मा यात्रै गर्दैन।",
+   "unit": "भौतिक विज्ञान",
+   "set": "science-health-environment-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/science-health-environment-questions-set-1"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-11",
+   "question": "डेंगु रोग कुन लामखुट्टेले सार्छ?",
+   "options": [
+    "एनोफिलिज",
+    "एडिस",
+    "क्युलेक्स",
+    "सबैले"
+   ],
+   "answer_index": 1,
+   "answer": "एडिस",
+   "explanation": "डेंगु एडिस जातको लामखुट्टेले सार्छ; औलो (मलेरिया) एनोफिलिजले सार्छ।",
+   "unit": "स्वास्थ्य",
+   "set": "science-health-environment-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/science-health-environment-questions-set-1"
+  },
+  {
+   "id": "science-health-environment-questions-set-1-12",
+   "question": "ओजोन तह वायुमण्डलको कुन तहमा पाइन्छ?",
+   "options": [
+    "क्षोभमण्डल (Troposphere)",
+    "समतापमण्डल (Stratosphere)",
+    "मध्यमण्डल (Mesosphere)",
+    "तापमण्डल (Thermosphere)"
+   ],
+   "answer_index": 1,
+   "answer": "समतापमण्डल (Stratosphere)",
+   "explanation": "ओजोन तह समतापमण्डलमा पाइन्छ र यसले सूर्यका हानिकारक पराबैजनी किरण छेक्छ।",
+   "unit": "वातावरण",
+   "set": "science-health-environment-questions-set-1",
+   "exam": "loksewa",
+   "subject": "gk",
+   "practice_online": "https://dipaacademy.com/practice/loksewa/gk/science-health-environment-questions-set-1"
+  }
+ ]
+}
