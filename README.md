@@ -1,5 +1,7 @@
 # Lok Sewa Question Bank (लोकसेवा प्रश्न बैंक) — free MCQs with answers and explanations
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24435756.svg)](https://doi.org/10.5281/zenodo.24435756)
+
 Free, openly licensed multiple-choice questions for Nepal's **Public Service Commission (Lok Sewa Aayog)** exams — **Kharidar**, **Nayab Subba (Nasu)** and general Lok Sewa preparation — in Nepali, each with the correct answer and an explanation.
 
 Published by **[Dipa Academy (दिपा एकेडेमी)](https://dipaacademy.com/)**, an online Lok Sewa preparation institute in Nepal. Every set here can also be practised online, with instant checking, at [dipaacademy.com/practice](https://dipaacademy.com/practice).
@@ -61,6 +63,10 @@ Each `data/<set>.json` file:
 - Live classes, notes, mock tests and AI practice: the [Dipa App](https://dipaacademy.com/app)
 
 **Contact:** phone / WhatsApp [+977 974-0252020](https://wa.me/9779740252020) · [facebook.com/dipaacademy](https://www.facebook.com/dipaacademy) · [instagram.com/dipaacademy](https://www.instagram.com/dipaacademy)
+
+## Cite
+
+Dipa Academy (2026). *Lok Sewa Question Bank: free MCQs for Nepal's Public Service Commission exams* (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24435756
 
 ## Licence
 
