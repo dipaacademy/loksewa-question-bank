@@ -1,0 +1,13 @@
+{
+  "title": "Lok Sewa Question Bank: free MCQs for Nepal's Public Service Commission exams",
+  "upload_type": "dataset",
+  "description": "<p>Free multiple-choice questions for Nepal's Public Service Commission (Lok Sewa Aayog) exams: Kharidar, Nayab Subba (Nasu) and general Lok Sewa preparation. 202 questions in Nepali across 16 sets (general knowledge, Constitution of Nepal, geography, history, current affairs, BOST, IQ, computer, office management, interview), each with the correct answer and an explanation.</p><p>Published by Dipa Academy, an online Lok Sewa preparation institute in Nepal: <a href=\"https://dipaacademy.com\">https://dipaacademy.com</a>. Practise every set online at <a href=\"https://dipaacademy.com/practice\">https://dipaacademy.com/practice</a>.</p>",
+  "creators": [{"name": "Dipa Academy", "affiliation": "Dipa Academy Private Limited, Nepal"}],
+  "license": "cc-by-4.0",
+  "language": "nep",
+  "keywords": ["Lok Sewa", "Loksewa", "Public Service Commission Nepal", "Kharidar", "Nayab Subba", "Nepal general knowledge", "MCQ", "question bank", "civil service exam"],
+  "related_identifiers": [
+    {"identifier": "https://dipaacademy.com/practice", "relation": "isSupplementedBy", "resource_type": "other"},
+    {"identifier": "https://www.kaggle.com/datasets/dipaacademy/lok-sewa-question-bank-nepal-psc-mcqs", "relation": "isIdenticalTo", "resource_type": "dataset"}
+  ]
+}
